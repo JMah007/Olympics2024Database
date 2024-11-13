@@ -1,0 +1,1699 @@
+code,num_athletes,country,discipline,team_gender
+ARCMTEAM3---CHN01,3,China,Archery,M
+ARCMTEAM3---COL01,3,Colombia,Archery,M
+ARCMTEAM3---FRA01,3,France,Archery,M
+ARCMTEAM3---GBR01,3,Great Britain,Archery,M
+ARCMTEAM3---IND01,3,India,Archery,M
+ARCMTEAM3---ITA01,3,Italy,Archery,M
+ARCMTEAM3---JPN01,3,Japan,Archery,M
+ARCMTEAM3---KAZ01,3,Kazakhstan,Archery,M
+ARCMTEAM3---KOR01,3,Korea,Archery,M
+ARCMTEAM3---MEX01,3,Mexico,Archery,M
+ARCMTEAM3---TPE01,3,Chinese Taipei,Archery,M
+ARCMTEAM3---TUR01,3,Türkiye,Archery,M
+ARCWTEAM3---CHN01,3,China,Archery,W
+ARCWTEAM3---FRA01,3,France,Archery,W
+ARCWTEAM3---GBR01,3,Great Britain,Archery,W
+ARCWTEAM3---GER01,3,Germany,Archery,W
+ARCWTEAM3---INA01,3,Indonesia,Archery,W
+ARCWTEAM3---IND01,3,India,Archery,W
+ARCWTEAM3---KOR01,3,Korea,Archery,W
+ARCWTEAM3---MAS01,3,Malaysia,Archery,W
+ARCWTEAM3---MEX01,3,Mexico,Archery,W
+ARCWTEAM3---NED01,3,Netherlands,Archery,W
+ARCWTEAM3---TPE01,3,Chinese Taipei,Archery,W
+ARCWTEAM3---USA01,3,United States,Archery,W
+ARCXTEAM2---AUS01,2,Australia,Archery,X
+ARCXTEAM2---BRA01,2,Brazil,Archery,X
+ARCXTEAM2---CAN01,2,Canada,Archery,X
+ARCXTEAM2---CHN01,2,China,Archery,X
+ARCXTEAM2---COL01,2,Colombia,Archery,X
+ARCXTEAM2---CZE01,2,Czechia,Archery,X
+ARCXTEAM2---EGY01,2,Egypt,Archery,X
+ARCXTEAM2---ESP01,2,Spain,Archery,X
+ARCXTEAM2---FRA01,2,France,Archery,X
+ARCXTEAM2---GBR01,2,Great Britain,Archery,X
+ARCXTEAM2---GER01,2,Germany,Archery,X
+ARCXTEAM2---INA01,2,Indonesia,Archery,X
+ARCXTEAM2---IND01,2,India,Archery,X
+ARCXTEAM2---ISR01,2,Israel,Archery,X
+ARCXTEAM2---ITA01,2,Italy,Archery,X
+ARCXTEAM2---JPN01,2,Japan,Archery,X
+ARCXTEAM2---KOR01,2,Korea,Archery,X
+ARCXTEAM2---MDA01,2,Republic of Moldova,Archery,X
+ARCXTEAM2---MEX01,2,Mexico,Archery,X
+ARCXTEAM2---NED01,2,Netherlands,Archery,X
+ARCXTEAM2---SLO01,2,Slovenia,Archery,X
+ARCXTEAM2---TPE01,2,Chinese Taipei,Archery,X
+ARCXTEAM2---TUR01,2,Türkiye,Archery,X
+ARCXTEAM2---UKR01,2,Ukraine,Archery,X
+ARCXTEAM2---USA01,2,United States,Archery,X
+ARCXTEAM2---UZB01,2,Uzbekistan,Archery,X
+ARCXTEAM2---VIE01,2,Vietnam,Archery,X
+ATHM4X100M--AUS01,6,Australia,Athletics,M
+ATHM4X100M--BRA01,5,Brazil,Athletics,M
+ATHM4X100M--CAN01,6,Canada,Athletics,M
+ATHM4X100M--CHN01,5,China,Athletics,M
+ATHM4X100M--FRA01,7,France,Athletics,M
+ATHM4X100M--GBR01,5,Great Britain,Athletics,M
+ATHM4X100M--GER01,6,Germany,Athletics,M
+ATHM4X100M--GHA01,5,Ghana,Athletics,M
+ATHM4X100M--ITA01,7,Italy,Athletics,M
+ATHM4X100M--JAM01,5,Jamaica,Athletics,M
+ATHM4X100M--JPN01,6,Japan,Athletics,M
+ATHM4X100M--LBR01,5,Liberia,Athletics,M
+ATHM4X100M--NED01,5,Netherlands,Athletics,M
+ATHM4X100M--NGR01,4,Nigeria,Athletics,M
+ATHM4X100M--RSA01,5,South Africa,Athletics,M
+ATHM4X100M--USA01,6,United States,Athletics,M
+ATHM4X400M--BEL01,7,Belgium,Athletics,M
+ATHM4X400M--BOT01,6,Botswana,Athletics,M
+ATHM4X400M--BRA01,5,Brazil,Athletics,M
+ATHM4X400M--ESP01,5,Spain,Athletics,M
+ATHM4X400M--FRA01,6,France,Athletics,M
+ATHM4X400M--GBR01,7,Great Britain,Athletics,M
+ATHM4X400M--GER01,7,Germany,Athletics,M
+ATHM4X400M--IND01,5,India,Athletics,M
+ATHM4X400M--ITA01,9,Italy,Athletics,M
+ATHM4X400M--JPN01,5,Japan,Athletics,M
+ATHM4X400M--NGR01,6,Nigeria,Athletics,M
+ATHM4X400M--POL01,6,Poland,Athletics,M
+ATHM4X400M--RSA01,5,South Africa,Athletics,M
+ATHM4X400M--TTO01,5,Trinidad and Tobago,Athletics,M
+ATHM4X400M--USA01,8,United States,Athletics,M
+ATHM4X400M--ZAM01,5,Zambia,Athletics,M
+ATHW4X100M--AUS01,6,Australia,Athletics,W
+ATHW4X100M--BEL01,6,Belgium,Athletics,W
+ATHW4X100M--CAN01,5,Canada,Athletics,W
+ATHW4X100M--CIV01,5,Côte d'Ivoire,Athletics,W
+ATHW4X100M--ESP01,6,Spain,Athletics,W
+ATHW4X100M--FRA01,6,France,Athletics,W
+ATHW4X100M--GBR01,6,Great Britain,Athletics,W
+ATHW4X100M--GER01,5,Germany,Athletics,W
+ATHW4X100M--ITA01,6,Italy,Athletics,W
+ATHW4X100M--JAM01,6,Jamaica,Athletics,W
+ATHW4X100M--NED01,6,Netherlands,Athletics,W
+ATHW4X100M--NGR01,5,Nigeria,Athletics,W
+ATHW4X100M--POL01,5,Poland,Athletics,W
+ATHW4X100M--SUI01,6,Switzerland,Athletics,W
+ATHW4X100M--TTO01,5,Trinidad and Tobago,Athletics,W
+ATHW4X100M--USA01,6,United States,Athletics,W
+ATHW4X400M--BEL01,7,Belgium,Athletics,W
+ATHW4X400M--CAN01,6,Canada,Athletics,W
+ATHW4X400M--CUB01,6,Cuba,Athletics,W
+ATHW4X400M--ESP01,5,Spain,Athletics,W
+ATHW4X400M--FRA01,7,France,Athletics,W
+ATHW4X400M--GBR01,8,Great Britain,Athletics,W
+ATHW4X400M--GER01,6,Germany,Athletics,W
+ATHW4X400M--IND01,5,India,Athletics,W
+ATHW4X400M--IRL01,6,Ireland,Athletics,W
+ATHW4X400M--ITA01,7,Italy,Athletics,W
+ATHW4X400M--JAM01,8,Jamaica,Athletics,W
+ATHW4X400M--NED01,7,Netherlands,Athletics,W
+ATHW4X400M--NOR01,6,Norway,Athletics,W
+ATHW4X400M--POL01,6,Poland,Athletics,W
+ATHW4X400M--SUI01,7,Switzerland,Athletics,W
+ATHW4X400M--USA01,8,United States,Athletics,W
+ATHX42KWALKTAUS01,2,Australia,Athletics,X
+ATHX42KWALKTAUS02,2,Australia,Athletics,X
+ATHX42KWALKTBRA01,2,Brazil,Athletics,X
+ATHX42KWALKTCAN01,2,Canada,Athletics,X
+ATHX42KWALKTCHN01,2,China,Athletics,X
+ATHX42KWALKTCHN02,2,China,Athletics,X
+ATHX42KWALKTCOL01,2,Colombia,Athletics,X
+ATHX42KWALKTCOL02,2,Colombia,Athletics,X
+ATHX42KWALKTCZE01,2,Czechia,Athletics,X
+ATHX42KWALKTECU01,2,Ecuador,Athletics,X
+ATHX42KWALKTESP01,2,Spain,Athletics,X
+ATHX42KWALKTESP02,2,Spain,Athletics,X
+ATHX42KWALKTFRA01,2,France,Athletics,X
+ATHX42KWALKTGER01,2,Germany,Athletics,X
+ATHX42KWALKTHUN01,2,Hungary,Athletics,X
+ATHX42KWALKTIND01,2,India,Athletics,X
+ATHX42KWALKTITA01,2,Italy,Athletics,X
+ATHX42KWALKTJPN01,2,Japan,Athletics,X
+ATHX42KWALKTJPN02,2,Japan,Athletics,X
+ATHX42KWALKTMEX01,3,Mexico,Athletics,X
+ATHX42KWALKTPER01,2,Peru,Athletics,X
+ATHX42KWALKTPOL01,2,Poland,Athletics,X
+ATHX42KWALKTSVK01,2,Slovakia,Athletics,X
+ATHX42KWALKTTUR01,2,Türkiye,Athletics,X
+ATHX42KWALKTUKR01,2,Ukraine,Athletics,X
+ATHX4X400M--BAH01,4,Bahamas,Athletics,X
+ATHX4X400M--BEL01,7,Belgium,Athletics,X
+ATHX4X400M--DOM01,4,Dominican Republic,Athletics,X
+ATHX4X400M--FRA01,7,France,Athletics,X
+ATHX4X400M--GBR01,9,Great Britain,Athletics,X
+ATHX4X400M--GER01,6,Germany,Athletics,X
+ATHX4X400M--IRL01,6,Ireland,Athletics,X
+ATHX4X400M--ITA01,6,Italy,Athletics,X
+ATHX4X400M--JAM01,5,Jamaica,Athletics,X
+ATHX4X400M--KEN01,4,Kenya,Athletics,X
+ATHX4X400M--NED01,6,Netherlands,Athletics,X
+ATHX4X400M--NGR01,7,Nigeria,Athletics,X
+ATHX4X400M--POL01,8,Poland,Athletics,X
+ATHX4X400M--SUI01,6,Switzerland,Athletics,X
+ATHX4X400M--UKR01,5,Ukraine,Athletics,X
+ATHX4X400M--USA01,6,United States,Athletics,X
+BDMMDOUBLES-CAN01,2,Canada,Badminton,M
+BDMMDOUBLES-CHN01,2,China,Badminton,M
+BDMMDOUBLES-CHN02,2,China,Badminton,M
+BDMMDOUBLES-CZE01,2,Czechia,Badminton,M
+BDMMDOUBLES-DEN01,2,Denmark,Badminton,M
+BDMMDOUBLES-FRA01,2,France,Badminton,M
+BDMMDOUBLES-FRA02,2,France,Badminton,M
+BDMMDOUBLES-GBR01,2,Great Britain,Badminton,M
+BDMMDOUBLES-GER01,2,Germany,Badminton,M
+BDMMDOUBLES-INA01,2,Indonesia,Badminton,M
+BDMMDOUBLES-IND01,2,India,Badminton,M
+BDMMDOUBLES-JPN01,2,Japan,Badminton,M
+BDMMDOUBLES-KOR01,2,Korea,Badminton,M
+BDMMDOUBLES-MAS01,2,Malaysia,Badminton,M
+BDMMDOUBLES-THA01,2,Thailand,Badminton,M
+BDMMDOUBLES-TPE01,2,Chinese Taipei,Badminton,M
+BDMMDOUBLES-USA01,2,United States,Badminton,M
+BDMWDOUBLES-AUS01,2,Australia,Badminton,W
+BDMWDOUBLES-BUL01,2,Bulgaria,Badminton,W
+BDMWDOUBLES-CHN01,2,China,Badminton,W
+BDMWDOUBLES-CHN02,2,China,Badminton,W
+BDMWDOUBLES-DEN01,2,Denmark,Badminton,W
+BDMWDOUBLES-FRA01,2,France,Badminton,W
+BDMWDOUBLES-HKG01,2,"Hong Kong, China",Badminton,W
+BDMWDOUBLES-INA01,2,Indonesia,Badminton,W
+BDMWDOUBLES-IND01,2,India,Badminton,W
+BDMWDOUBLES-JPN01,2,Japan,Badminton,W
+BDMWDOUBLES-JPN02,2,Japan,Badminton,W
+BDMWDOUBLES-KOR01,2,Korea,Badminton,W
+BDMWDOUBLES-KOR02,2,Korea,Badminton,W
+BDMWDOUBLES-MAS01,2,Malaysia,Badminton,W
+BDMWDOUBLES-THA01,2,Thailand,Badminton,W
+BDMWDOUBLES-USA01,2,United States,Badminton,W
+BDMXDOUBLES-ALG01,2,Algeria,Badminton,X
+BDMXDOUBLES-CHN01,2,China,Badminton,X
+BDMXDOUBLES-CHN02,2,China,Badminton,X
+BDMXDOUBLES-DEN01,2,Denmark,Badminton,X
+BDMXDOUBLES-FRA01,2,France,Badminton,X
+BDMXDOUBLES-HKG01,2,"Hong Kong, China",Badminton,X
+BDMXDOUBLES-INA01,2,Indonesia,Badminton,X
+BDMXDOUBLES-JPN01,2,Japan,Badminton,X
+BDMXDOUBLES-KOR01,2,Korea,Badminton,X
+BDMXDOUBLES-KOR02,2,Korea,Badminton,X
+BDMXDOUBLES-MAS01,2,Malaysia,Badminton,X
+BDMXDOUBLES-NED01,2,Netherlands,Badminton,X
+BDMXDOUBLES-SGP01,2,Singapore,Badminton,X
+BDMXDOUBLES-THA01,2,Thailand,Badminton,X
+BDMXDOUBLES-TPE01,2,Chinese Taipei,Badminton,X
+BDMXDOUBLES-USA01,2,United States,Badminton,X
+BK3MTEAM3---CHN01,4,China,3x3 Basketball,M
+BK3MTEAM3---FRA01,4,France,3x3 Basketball,M
+BK3MTEAM3---LAT01,4,Latvia,3x3 Basketball,M
+BK3MTEAM3---LTU01,4,Lithuania,3x3 Basketball,M
+BK3MTEAM3---NED01,4,Netherlands,3x3 Basketball,M
+BK3MTEAM3---POL01,4,Poland,3x3 Basketball,M
+BK3MTEAM3---SRB01,4,Serbia,3x3 Basketball,M
+BK3MTEAM3---USA01,4,United States,3x3 Basketball,M
+BK3WTEAM3---AUS01,4,Australia,3x3 Basketball,W
+BK3WTEAM3---AZE01,4,Azerbaijan,3x3 Basketball,W
+BK3WTEAM3---CAN01,4,Canada,3x3 Basketball,W
+BK3WTEAM3---CHN01,4,China,3x3 Basketball,W
+BK3WTEAM3---ESP01,4,Spain,3x3 Basketball,W
+BK3WTEAM3---FRA01,4,France,3x3 Basketball,W
+BK3WTEAM3---GER01,4,Germany,3x3 Basketball,W
+BK3WTEAM3---USA01,4,United States,3x3 Basketball,W
+BKBMTEAM5---AUS01,12,Australia,Basketball,M
+BKBMTEAM5---BRA01,12,Brazil,Basketball,M
+BKBMTEAM5---CAN01,12,Canada,Basketball,M
+BKBMTEAM5---ESP01,12,Spain,Basketball,M
+BKBMTEAM5---FRA01,12,France,Basketball,M
+BKBMTEAM5---GER01,12,Germany,Basketball,M
+BKBMTEAM5---GRE01,12,Greece,Basketball,M
+BKBMTEAM5---JPN01,12,Japan,Basketball,M
+BKBMTEAM5---PUR01,12,Puerto Rico,Basketball,M
+BKBMTEAM5---SRB01,12,Serbia,Basketball,M
+BKBMTEAM5---SSD01,12,South Sudan,Basketball,M
+BKBMTEAM5---USA01,12,United States,Basketball,M
+BKBWTEAM5---AUS01,12,Australia,Basketball,W
+BKBWTEAM5---BEL01,12,Belgium,Basketball,W
+BKBWTEAM5---CAN01,12,Canada,Basketball,W
+BKBWTEAM5---CHN01,12,China,Basketball,W
+BKBWTEAM5---ESP01,12,Spain,Basketball,W
+BKBWTEAM5---FRA01,12,France,Basketball,W
+BKBWTEAM5---GER01,12,Germany,Basketball,W
+BKBWTEAM5---JPN01,12,Japan,Basketball,W
+BKBWTEAM5---NGR01,12,Nigeria,Basketball,W
+BKBWTEAM5---PUR01,12,Puerto Rico,Basketball,W
+BKBWTEAM5---SRB01,12,Serbia,Basketball,W
+BKBWTEAM5---USA01,12,United States,Basketball,W
+CSPMC2-500M-AIN01,2,AIN,Canoe Sprint,M
+CSPMC2-500M-ANG01,2,Angola,Canoe Sprint,M
+CSPMC2-500M-BRA01,2,Brazil,Canoe Sprint,M
+CSPMC2-500M-CHN01,2,China,Canoe Sprint,M
+CSPMC2-500M-CZE01,2,Czechia,Canoe Sprint,M
+CSPMC2-500M-ESP01,2,Spain,Canoe Sprint,M
+CSPMC2-500M-FRA01,2,France,Canoe Sprint,M
+CSPMC2-500M-GER01,2,Germany,Canoe Sprint,M
+CSPMC2-500M-HUN01,2,Hungary,Canoe Sprint,M
+CSPMC2-500M-ITA01,2,Italy,Canoe Sprint,M
+CSPMC2-500M-KAZ01,2,Kazakhstan,Canoe Sprint,M
+CSPMC2-500M-NZL01,2,New Zealand,Canoe Sprint,M
+CSPMC2-500M-ROU01,2,Romania,Canoe Sprint,M
+CSPMK2-500M-AUS01,2,Australia,Canoe Sprint,M
+CSPMK2-500M-CAN01,2,Canada,Canoe Sprint,M
+CSPMK2-500M-CHN01,2,China,Canoe Sprint,M
+CSPMK2-500M-CZE01,2,Czechia,Canoe Sprint,M
+CSPMK2-500M-ESP01,2,Spain,Canoe Sprint,M
+CSPMK2-500M-ESP02,2,Spain,Canoe Sprint,M
+CSPMK2-500M-GER01,2,Germany,Canoe Sprint,M
+CSPMK2-500M-GER02,2,Germany,Canoe Sprint,M
+CSPMK2-500M-HUN01,2,Hungary,Canoe Sprint,M
+CSPMK2-500M-HUN02,2,Hungary,Canoe Sprint,M
+CSPMK2-500M-KAZ01,2,Kazakhstan,Canoe Sprint,M
+CSPMK2-500M-LTU01,2,Lithuania,Canoe Sprint,M
+CSPMK2-500M-NZL01,2,New Zealand,Canoe Sprint,M
+CSPMK2-500M-POL01,2,Poland,Canoe Sprint,M
+CSPMK2-500M-POR01,2,Portugal,Canoe Sprint,M
+CSPMK2-500M-RSA01,2,South Africa,Canoe Sprint,M
+CSPMK2-500M-SRB01,2,Serbia,Canoe Sprint,M
+CSPMK2-500M-SRB02,2,Serbia,Canoe Sprint,M
+CSPMK2-500M-UKR01,2,Ukraine,Canoe Sprint,M
+CSPMK2-500M-USA01,2,United States,Canoe Sprint,M
+CSPMK4-500M-AUS01,4,Australia,Canoe Sprint,M
+CSPMK4-500M-CAN01,4,Canada,Canoe Sprint,M
+CSPMK4-500M-CHN01,4,China,Canoe Sprint,M
+CSPMK4-500M-DEN01,4,Denmark,Canoe Sprint,M
+CSPMK4-500M-ESP01,4,Spain,Canoe Sprint,M
+CSPMK4-500M-GER01,4,Germany,Canoe Sprint,M
+CSPMK4-500M-HUN01,4,Hungary,Canoe Sprint,M
+CSPMK4-500M-LTU01,4,Lithuania,Canoe Sprint,M
+CSPMK4-500M-NZL01,4,New Zealand,Canoe Sprint,M
+CSPMK4-500M-SRB01,4,Serbia,Canoe Sprint,M
+CSPMK4-500M-UKR01,4,Ukraine,Canoe Sprint,M
+CSPWC2-500M-CAN01,2,Canada,Canoe Sprint,W
+CSPWC2-500M-CHI01,2,Chile,Canoe Sprint,W
+CSPWC2-500M-CHN01,2,China,Canoe Sprint,W
+CSPWC2-500M-CUB01,2,Cuba,Canoe Sprint,W
+CSPWC2-500M-ESP01,2,Spain,Canoe Sprint,W
+CSPWC2-500M-FRA01,2,France,Canoe Sprint,W
+CSPWC2-500M-GER01,2,Germany,Canoe Sprint,W
+CSPWC2-500M-HUN01,2,Hungary,Canoe Sprint,W
+CSPWC2-500M-KAZ01,2,Kazakhstan,Canoe Sprint,W
+CSPWC2-500M-MDA01,2,Republic of Moldova,Canoe Sprint,W
+CSPWC2-500M-NGR01,2,Nigeria,Canoe Sprint,W
+CSPWC2-500M-POL01,2,Poland,Canoe Sprint,W
+CSPWC2-500M-UKR01,2,Ukraine,Canoe Sprint,W
+CSPWK2-500M-AUS01,2,Australia,Canoe Sprint,W
+CSPWK2-500M-BEL01,2,Belgium,Canoe Sprint,W
+CSPWK2-500M-CAN01,2,Canada,Canoe Sprint,W
+CSPWK2-500M-CHN01,2,China,Canoe Sprint,W
+CSPWK2-500M-DEN01,2,Denmark,Canoe Sprint,W
+CSPWK2-500M-ESP01,2,Spain,Canoe Sprint,W
+CSPWK2-500M-FRA01,2,France,Canoe Sprint,W
+CSPWK2-500M-GER01,2,Germany,Canoe Sprint,W
+CSPWK2-500M-GER02,2,Germany,Canoe Sprint,W
+CSPWK2-500M-HUN01,2,Hungary,Canoe Sprint,W
+CSPWK2-500M-HUN02,2,Hungary,Canoe Sprint,W
+CSPWK2-500M-MEX01,2,Mexico,Canoe Sprint,W
+CSPWK2-500M-NED01,2,Netherlands,Canoe Sprint,W
+CSPWK2-500M-NOR01,2,Norway,Canoe Sprint,W
+CSPWK2-500M-NZL01,2,New Zealand,Canoe Sprint,W
+CSPWK2-500M-NZL02,2,New Zealand,Canoe Sprint,W
+CSPWK2-500M-POL01,2,Poland,Canoe Sprint,W
+CSPWK2-500M-POL02,2,Poland,Canoe Sprint,W
+CSPWK2-500M-RSA01,2,South Africa,Canoe Sprint,W
+CSPWK2-500M-SWE01,2,Sweden,Canoe Sprint,W
+CSPWK4-500M-AUS01,4,Australia,Canoe Sprint,W
+CSPWK4-500M-CAN01,4,Canada,Canoe Sprint,W
+CSPWK4-500M-CHN01,4,China,Canoe Sprint,W
+CSPWK4-500M-ESP01,4,Spain,Canoe Sprint,W
+CSPWK4-500M-GER01,4,Germany,Canoe Sprint,W
+CSPWK4-500M-HUN01,4,Hungary,Canoe Sprint,W
+CSPWK4-500M-NOR01,4,Norway,Canoe Sprint,W
+CSPWK4-500M-NZL01,4,New Zealand,Canoe Sprint,W
+CSPWK4-500M-POL01,4,Poland,Canoe Sprint,W
+CSPWK4-500M-SRB01,4,Serbia,Canoe Sprint,W
+CTRMMADISON-AUS01,2,Australia,Cycling Track,M
+CTRMMADISON-AUT01,2,Austria,Cycling Track,M
+CTRMMADISON-BEL01,2,Belgium,Cycling Track,M
+CTRMMADISON-CAN01,2,Canada,Cycling Track,M
+CTRMMADISON-CZE01,2,Czechia,Cycling Track,M
+CTRMMADISON-DEN01,2,Denmark,Cycling Track,M
+CTRMMADISON-ESP01,2,Spain,Cycling Track,M
+CTRMMADISON-FRA01,2,France,Cycling Track,M
+CTRMMADISON-GBR01,2,Great Britain,Cycling Track,M
+CTRMMADISON-GER01,2,Germany,Cycling Track,M
+CTRMMADISON-ITA01,2,Italy,Cycling Track,M
+CTRMMADISON-JPN01,2,Japan,Cycling Track,M
+CTRMMADISON-NED01,2,Netherlands,Cycling Track,M
+CTRMMADISON-NZL01,2,New Zealand,Cycling Track,M
+CTRMMADISON-POR01,2,Portugal,Cycling Track,M
+CTRMPURTEAM4AUS01,5,Australia,Cycling Track,M
+CTRMPURTEAM4BEL01,4,Belgium,Cycling Track,M
+CTRMPURTEAM4CAN01,5,Canada,Cycling Track,M
+CTRMPURTEAM4DEN01,6,Denmark,Cycling Track,M
+CTRMPURTEAM4FRA01,5,France,Cycling Track,M
+CTRMPURTEAM4GBR01,6,Great Britain,Cycling Track,M
+CTRMPURTEAM4GER01,5,Germany,Cycling Track,M
+CTRMPURTEAM4ITA01,5,Italy,Cycling Track,M
+CTRMPURTEAM4JPN01,5,Japan,Cycling Track,M
+CTRMPURTEAM4NZL01,5,New Zealand,Cycling Track,M
+CTRMSPRTEAM3AUS01,4,Australia,Cycling Track,M
+CTRMSPRTEAM3CAN01,4,Canada,Cycling Track,M
+CTRMSPRTEAM3CHN01,4,China,Cycling Track,M
+CTRMSPRTEAM3FRA01,4,France,Cycling Track,M
+CTRMSPRTEAM3GBR01,4,Great Britain,Cycling Track,M
+CTRMSPRTEAM3GER01,4,Germany,Cycling Track,M
+CTRMSPRTEAM3JPN01,5,Japan,Cycling Track,M
+CTRMSPRTEAM3NED01,4,Netherlands,Cycling Track,M
+CTRWMADISON-AUS01,2,Australia,Cycling Track,W
+CTRWMADISON-BEL01,2,Belgium,Cycling Track,W
+CTRWMADISON-CAN01,2,Canada,Cycling Track,W
+CTRWMADISON-DEN01,2,Denmark,Cycling Track,W
+CTRWMADISON-FRA01,2,France,Cycling Track,W
+CTRWMADISON-GBR01,2,Great Britain,Cycling Track,W
+CTRWMADISON-GER01,2,Germany,Cycling Track,W
+CTRWMADISON-IRL01,2,Ireland,Cycling Track,W
+CTRWMADISON-ITA01,2,Italy,Cycling Track,W
+CTRWMADISON-JPN01,2,Japan,Cycling Track,W
+CTRWMADISON-NED01,2,Netherlands,Cycling Track,W
+CTRWMADISON-NZL01,2,New Zealand,Cycling Track,W
+CTRWMADISON-POL01,2,Poland,Cycling Track,W
+CTRWMADISON-SUI01,2,Switzerland,Cycling Track,W
+CTRWMADISON-USA01,2,United States,Cycling Track,W
+CTRWPURTEAM4AUS01,5,Australia,Cycling Track,W
+CTRWPURTEAM4CAN01,5,Canada,Cycling Track,W
+CTRWPURTEAM4FRA01,5,France,Cycling Track,W
+CTRWPURTEAM4GBR01,6,Great Britain,Cycling Track,W
+CTRWPURTEAM4GER01,4,Germany,Cycling Track,W
+CTRWPURTEAM4IRL01,5,Ireland,Cycling Track,W
+CTRWPURTEAM4ITA01,6,Italy,Cycling Track,W
+CTRWPURTEAM4JPN01,5,Japan,Cycling Track,W
+CTRWPURTEAM4NZL01,5,New Zealand,Cycling Track,W
+CTRWPURTEAM4USA01,6,United States,Cycling Track,W
+CTRWSPRTEAM3CAN01,4,Canada,Cycling Track,W
+CTRWSPRTEAM3CHN01,4,China,Cycling Track,W
+CTRWSPRTEAM3GBR01,4,Great Britain,Cycling Track,W
+CTRWSPRTEAM3GER01,4,Germany,Cycling Track,W
+CTRWSPRTEAM3MEX01,3,Mexico,Cycling Track,W
+CTRWSPRTEAM3NED01,3,Netherlands,Cycling Track,W
+CTRWSPRTEAM3NZL01,4,New Zealand,Cycling Track,W
+CTRWSPRTEAM3POL01,4,Poland,Cycling Track,W
+DIVM10MTEAM2AUS01,2,Australia,Diving,M
+DIVM10MTEAM2CAN01,2,Canada,Diving,M
+DIVM10MTEAM2CHN01,2,China,Diving,M
+DIVM10MTEAM2FRA01,2,France,Diving,M
+DIVM10MTEAM2GBR01,2,Great Britain,Diving,M
+DIVM10MTEAM2GER01,2,Germany,Diving,M
+DIVM10MTEAM2MEX01,2,Mexico,Diving,M
+DIVM10MTEAM2UKR01,2,Ukraine,Diving,M
+DIVM3MTEAM2-CHN01,2,China,Diving,M
+DIVM3MTEAM2-ESP01,2,Spain,Diving,M
+DIVM3MTEAM2-FRA01,2,France,Diving,M
+DIVM3MTEAM2-GBR01,2,Great Britain,Diving,M
+DIVM3MTEAM2-ITA01,2,Italy,Diving,M
+DIVM3MTEAM2-MEX01,2,Mexico,Diving,M
+DIVM3MTEAM2-UKR01,2,Ukraine,Diving,M
+DIVM3MTEAM2-USA01,2,United States,Diving,M
+DIVW10MTEAM2CAN01,2,Canada,Diving,W
+DIVW10MTEAM2CHN01,2,China,Diving,W
+DIVW10MTEAM2FRA01,2,France,Diving,W
+DIVW10MTEAM2GBR01,2,Great Britain,Diving,W
+DIVW10MTEAM2MEX01,2,Mexico,Diving,W
+DIVW10MTEAM2PRK01,2,DPR Korea,Diving,W
+DIVW10MTEAM2UKR01,2,Ukraine,Diving,W
+DIVW10MTEAM2USA01,2,United States,Diving,W
+DIVW3MTEAM2-AUS01,2,Australia,Diving,W
+DIVW3MTEAM2-CHN01,2,China,Diving,W
+DIVW3MTEAM2-FRA01,2,France,Diving,W
+DIVW3MTEAM2-GBR01,2,Great Britain,Diving,W
+DIVW3MTEAM2-GER01,2,Germany,Diving,W
+DIVW3MTEAM2-ITA01,2,Italy,Diving,W
+DIVW3MTEAM2-UKR01,2,Ukraine,Diving,W
+DIVW3MTEAM2-USA01,2,United States,Diving,W
+EQUODRESTEAMAUS01,4,Australia,Equestrian,O
+EQUODRESTEAMAUT01,4,Austria,Equestrian,O
+EQUODRESTEAMBEL01,4,Belgium,Equestrian,O
+EQUODRESTEAMCAN01,4,Canada,Equestrian,O
+EQUODRESTEAMDEN01,4,Denmark,Equestrian,O
+EQUODRESTEAMESP01,4,Spain,Equestrian,O
+EQUODRESTEAMFIN01,4,Finland,Equestrian,O
+EQUODRESTEAMFRA01,4,France,Equestrian,O
+EQUODRESTEAMGBR01,4,Great Britain,Equestrian,O
+EQUODRESTEAMGER01,4,Germany,Equestrian,O
+EQUODRESTEAMNED01,4,Netherlands,Equestrian,O
+EQUODRESTEAMPOL01,4,Poland,Equestrian,O
+EQUODRESTEAMPOR01,4,Portugal,Equestrian,O
+EQUODRESTEAMSWE01,4,Sweden,Equestrian,O
+EQUODRESTEAMUSA01,4,United States,Equestrian,O
+EQUOEVENTEAMAUS01,4,Australia,Equestrian,O
+EQUOEVENTEAMBEL01,4,Belgium,Equestrian,O
+EQUOEVENTEAMBRA01,4,Brazil,Equestrian,O
+EQUOEVENTEAMCAN01,4,Canada,Equestrian,O
+EQUOEVENTEAMFRA01,4,France,Equestrian,O
+EQUOEVENTEAMGBR01,4,Great Britain,Equestrian,O
+EQUOEVENTEAMGER01,4,Germany,Equestrian,O
+EQUOEVENTEAMIRL01,4,Ireland,Equestrian,O
+EQUOEVENTEAMITA01,4,Italy,Equestrian,O
+EQUOEVENTEAMJPN01,4,Japan,Equestrian,O
+EQUOEVENTEAMNED01,4,Netherlands,Equestrian,O
+EQUOEVENTEAMNZL01,4,New Zealand,Equestrian,O
+EQUOEVENTEAMPOL01,4,Poland,Equestrian,O
+EQUOEVENTEAMSUI01,4,Switzerland,Equestrian,O
+EQUOEVENTEAMSWE01,4,Sweden,Equestrian,O
+EQUOEVENTEAMUSA01,4,United States,Equestrian,O
+EQUOJUMPTEAMAUS01,4,Australia,Equestrian,O
+EQUOJUMPTEAMAUT01,4,Austria,Equestrian,O
+EQUOJUMPTEAMBEL01,4,Belgium,Equestrian,O
+EQUOJUMPTEAMBRA01,4,Brazil,Equestrian,O
+EQUOJUMPTEAMCAN01,4,Canada,Equestrian,O
+EQUOJUMPTEAMESP01,4,Spain,Equestrian,O
+EQUOJUMPTEAMFRA01,4,France,Equestrian,O
+EQUOJUMPTEAMGBR01,4,Great Britain,Equestrian,O
+EQUOJUMPTEAMGER01,4,Germany,Equestrian,O
+EQUOJUMPTEAMIRL01,4,Ireland,Equestrian,O
+EQUOJUMPTEAMISR01,4,Israel,Equestrian,O
+EQUOJUMPTEAMJPN01,4,Japan,Equestrian,O
+EQUOJUMPTEAMKSA01,4,Saudi Arabia,Equestrian,O
+EQUOJUMPTEAMMEX01,4,Mexico,Equestrian,O
+EQUOJUMPTEAMNED01,4,Netherlands,Equestrian,O
+EQUOJUMPTEAMPOL01,4,Poland,Equestrian,O
+EQUOJUMPTEAMSUI01,4,Switzerland,Equestrian,O
+EQUOJUMPTEAMSWE01,4,Sweden,Equestrian,O
+EQUOJUMPTEAMUAE01,4,UA Emirates,Equestrian,O
+EQUOJUMPTEAMUSA01,4,United States,Equestrian,O
+FBLMTEAM11--ARG01,18,Argentina,Football,M
+FBLMTEAM11--DOM01,19,Dominican Republic,Football,M
+FBLMTEAM11--EGY01,19,Egypt,Football,M
+FBLMTEAM11--ESP01,22,Spain,Football,M
+FBLMTEAM11--FRA01,21,France,Football,M
+FBLMTEAM11--GUI01,19,Guinea,Football,M
+FBLMTEAM11--IRQ01,19,Iraq,Football,M
+FBLMTEAM11--ISR01,19,Israel,Football,M
+FBLMTEAM11--JPN01,21,Japan,Football,M
+FBLMTEAM11--MAR01,19,Morocco,Football,M
+FBLMTEAM11--MLI01,18,Mali,Football,M
+FBLMTEAM11--NZL01,20,New Zealand,Football,M
+FBLMTEAM11--PAR01,19,Paraguay,Football,M
+FBLMTEAM11--UKR01,18,Ukraine,Football,M
+FBLMTEAM11--USA01,19,United States,Football,M
+FBLMTEAM11--UZB01,21,Uzbekistan,Football,M
+FBLWTEAM11--AUS01,19,Australia,Football,W
+FBLWTEAM11--BRA01,22,Brazil,Football,W
+FBLWTEAM11--CAN01,19,Canada,Football,W
+FBLWTEAM11--COL01,19,Colombia,Football,W
+FBLWTEAM11--ESP01,22,Spain,Football,W
+FBLWTEAM11--FRA01,20,France,Football,W
+FBLWTEAM11--GER01,20,Germany,Football,W
+FBLWTEAM11--JPN01,22,Japan,Football,W
+FBLWTEAM11--NGR01,18,Nigeria,Football,W
+FBLWTEAM11--NZL01,19,New Zealand,Football,W
+FBLWTEAM11--USA01,20,United States,Football,W
+FBLWTEAM11--ZAM01,20,Zambia,Football,W
+FENMTEAMEPEECZE01,4,Czechia,Fencing,M
+FENMTEAMEPEEEGY01,4,Egypt,Fencing,M
+FENMTEAMEPEEFRA01,4,France,Fencing,M
+FENMTEAMEPEEHUN01,4,Hungary,Fencing,M
+FENMTEAMEPEEITA01,4,Italy,Fencing,M
+FENMTEAMEPEEJPN01,4,Japan,Fencing,M
+FENMTEAMEPEEKAZ01,4,Kazakhstan,Fencing,M
+FENMTEAMEPEEVEN01,4,Venezuela,Fencing,M
+FENMTEAMFOILCAN01,4,Canada,Fencing,M
+FENMTEAMFOILCHN01,4,China,Fencing,M
+FENMTEAMFOILEGY01,4,Egypt,Fencing,M
+FENMTEAMFOILFRA01,4,France,Fencing,M
+FENMTEAMFOILITA01,4,Italy,Fencing,M
+FENMTEAMFOILJPN01,4,Japan,Fencing,M
+FENMTEAMFOILPOL01,4,Poland,Fencing,M
+FENMTEAMFOILUSA01,4,United States,Fencing,M
+FENMTEAMSABRCAN01,4,Canada,Fencing,M
+FENMTEAMSABREGY01,4,Egypt,Fencing,M
+FENMTEAMSABRFRA01,4,France,Fencing,M
+FENMTEAMSABRHUN01,4,Hungary,Fencing,M
+FENMTEAMSABRIRI01,4,IR Iran,Fencing,M
+FENMTEAMSABRITA01,4,Italy,Fencing,M
+FENMTEAMSABRKOR01,4,Korea,Fencing,M
+FENMTEAMSABRUSA01,4,United States,Fencing,M
+FENWTEAMEPEECHN01,4,China,Fencing,W
+FENWTEAMEPEEEGY01,4,Egypt,Fencing,W
+FENWTEAMEPEEFRA01,4,France,Fencing,W
+FENWTEAMEPEEITA01,4,Italy,Fencing,W
+FENWTEAMEPEEKOR01,4,Korea,Fencing,W
+FENWTEAMEPEEPOL01,4,Poland,Fencing,W
+FENWTEAMEPEEUKR01,4,Ukraine,Fencing,W
+FENWTEAMEPEEUSA01,4,United States,Fencing,W
+FENWTEAMFOILCAN01,4,Canada,Fencing,W
+FENWTEAMFOILCHN01,4,China,Fencing,W
+FENWTEAMFOILEGY01,4,Egypt,Fencing,W
+FENWTEAMFOILFRA01,4,France,Fencing,W
+FENWTEAMFOILITA01,4,Italy,Fencing,W
+FENWTEAMFOILJPN01,4,Japan,Fencing,W
+FENWTEAMFOILPOL01,4,Poland,Fencing,W
+FENWTEAMFOILUSA01,4,United States,Fencing,W
+FENWTEAMSABRALG01,4,Algeria,Fencing,W
+FENWTEAMSABRFRA01,4,France,Fencing,W
+FENWTEAMSABRHUN01,4,Hungary,Fencing,W
+FENWTEAMSABRITA01,4,Italy,Fencing,W
+FENWTEAMSABRJPN01,4,Japan,Fencing,W
+FENWTEAMSABRKOR01,4,Korea,Fencing,W
+FENWTEAMSABRUKR01,4,Ukraine,Fencing,W
+FENWTEAMSABRUSA01,4,United States,Fencing,W
+GARMTEAM----CAN01,5,Canada,Artistic Gymnastics,M
+GARMTEAM----CHN01,5,China,Artistic Gymnastics,M
+GARMTEAM----ESP01,5,Spain,Artistic Gymnastics,M
+GARMTEAM----GBR01,5,Great Britain,Artistic Gymnastics,M
+GARMTEAM----GER01,5,Germany,Artistic Gymnastics,M
+GARMTEAM----ITA01,5,Italy,Artistic Gymnastics,M
+GARMTEAM----JPN01,5,Japan,Artistic Gymnastics,M
+GARMTEAM----NED01,5,Netherlands,Artistic Gymnastics,M
+GARMTEAM----SUI01,5,Switzerland,Artistic Gymnastics,M
+GARMTEAM----TUR01,5,Türkiye,Artistic Gymnastics,M
+GARMTEAM----UKR01,5,Ukraine,Artistic Gymnastics,M
+GARMTEAM----USA01,5,United States,Artistic Gymnastics,M
+GARWTEAM----AUS01,5,Australia,Artistic Gymnastics,W
+GARWTEAM----BRA01,5,Brazil,Artistic Gymnastics,W
+GARWTEAM----CAN01,5,Canada,Artistic Gymnastics,W
+GARWTEAM----CHN01,5,China,Artistic Gymnastics,W
+GARWTEAM----FRA01,5,France,Artistic Gymnastics,W
+GARWTEAM----GBR01,5,Great Britain,Artistic Gymnastics,W
+GARWTEAM----ITA01,5,Italy,Artistic Gymnastics,W
+GARWTEAM----JPN01,4,Japan,Artistic Gymnastics,W
+GARWTEAM----KOR01,5,Korea,Artistic Gymnastics,W
+GARWTEAM----NED01,5,Netherlands,Artistic Gymnastics,W
+GARWTEAM----ROU01,5,Romania,Artistic Gymnastics,W
+GARWTEAM----USA01,5,United States,Artistic Gymnastics,W
+GRYW5AA-----AUS01,5,Australia,Rhythmic Gymnastics,W
+GRYW5AA-----AZE01,5,Azerbaijan,Rhythmic Gymnastics,W
+GRYW5AA-----BRA01,5,Brazil,Rhythmic Gymnastics,W
+GRYW5AA-----BUL01,5,Bulgaria,Rhythmic Gymnastics,W
+GRYW5AA-----CHN01,5,China,Rhythmic Gymnastics,W
+GRYW5AA-----EGY01,5,Egypt,Rhythmic Gymnastics,W
+GRYW5AA-----ESP01,5,Spain,Rhythmic Gymnastics,W
+GRYW5AA-----FRA01,5,France,Rhythmic Gymnastics,W
+GRYW5AA-----GER01,5,Germany,Rhythmic Gymnastics,W
+GRYW5AA-----ISR01,5,Israel,Rhythmic Gymnastics,W
+GRYW5AA-----ITA01,5,Italy,Rhythmic Gymnastics,W
+GRYW5AA-----MEX01,5,Mexico,Rhythmic Gymnastics,W
+GRYW5AA-----UKR01,5,Ukraine,Rhythmic Gymnastics,W
+GRYW5AA-----UZB01,5,Uzbekistan,Rhythmic Gymnastics,W
+HBLMTEAM7---ARG01,15,Argentina,Handball,M
+HBLMTEAM7---CRO01,14,Croatia,Handball,M
+HBLMTEAM7---DEN01,16,Denmark,Handball,M
+HBLMTEAM7---EGY01,15,Egypt,Handball,M
+HBLMTEAM7---ESP01,15,Spain,Handball,M
+HBLMTEAM7---FRA01,16,France,Handball,M
+HBLMTEAM7---GER01,16,Germany,Handball,M
+HBLMTEAM7---HUN01,17,Hungary,Handball,M
+HBLMTEAM7---JPN01,14,Japan,Handball,M
+HBLMTEAM7---NOR01,14,Norway,Handball,M
+HBLMTEAM7---SLO01,17,Slovenia,Handball,M
+HBLMTEAM7---SWE01,16,Sweden,Handball,M
+HBLWTEAM7---ANG01,14,Angola,Handball,W
+HBLWTEAM7---BRA01,16,Brazil,Handball,W
+HBLWTEAM7---DEN01,15,Denmark,Handball,W
+HBLWTEAM7---ESP01,15,Spain,Handball,W
+HBLWTEAM7---FRA01,17,France,Handball,W
+HBLWTEAM7---GER01,14,Germany,Handball,W
+HBLWTEAM7---HUN01,17,Hungary,Handball,W
+HBLWTEAM7---KOR01,14,Korea,Handball,W
+HBLWTEAM7---NED01,14,Netherlands,Handball,W
+HBLWTEAM7---NOR01,15,Norway,Handball,W
+HBLWTEAM7---SLO01,15,Slovenia,Handball,W
+HBLWTEAM7---SWE01,15,Sweden,Handball,W
+HOCMTEAM11--ARG01,18,Argentina,Hockey,M
+HOCMTEAM11--AUS01,17,Australia,Hockey,M
+HOCMTEAM11--BEL01,19,Belgium,Hockey,M
+HOCMTEAM11--ESP01,18,Spain,Hockey,M
+HOCMTEAM11--FRA01,18,France,Hockey,M
+HOCMTEAM11--GBR01,18,Great Britain,Hockey,M
+HOCMTEAM11--GER01,18,Germany,Hockey,M
+HOCMTEAM11--IND01,16,India,Hockey,M
+HOCMTEAM11--IRL01,17,Ireland,Hockey,M
+HOCMTEAM11--NED01,18,Netherlands,Hockey,M
+HOCMTEAM11--NZL01,19,New Zealand,Hockey,M
+HOCMTEAM11--RSA01,16,South Africa,Hockey,M
+HOCWTEAM11--ARG01,16,Argentina,Hockey,W
+HOCWTEAM11--AUS01,18,Australia,Hockey,W
+HOCWTEAM11--BEL01,19,Belgium,Hockey,W
+HOCWTEAM11--CHN01,17,China,Hockey,W
+HOCWTEAM11--ESP01,16,Spain,Hockey,W
+HOCWTEAM11--FRA01,17,France,Hockey,W
+HOCWTEAM11--GBR01,16,Great Britain,Hockey,W
+HOCWTEAM11--GER01,18,Germany,Hockey,W
+HOCWTEAM11--JPN01,16,Japan,Hockey,W
+HOCWTEAM11--NED01,17,Netherlands,Hockey,W
+HOCWTEAM11--RSA01,17,South Africa,Hockey,W
+HOCWTEAM11--USA01,16,United States,Hockey,W
+JUDXTEAM6---AUT01,6,Austria,Judo,X
+JUDXTEAM6---BRA01,10,Brazil,Judo,X
+JUDXTEAM6---CAN01,7,Canada,Judo,X
+JUDXTEAM6---EOR01,6,EOR,Judo,X
+JUDXTEAM6---ESP01,8,Spain,Judo,X
+JUDXTEAM6---FRA01,14,France,Judo,X
+JUDXTEAM6---GEO01,9,Georgia,Judo,X
+JUDXTEAM6---GER01,10,Germany,Judo,X
+JUDXTEAM6---HUN01,7,Hungary,Judo,X
+JUDXTEAM6---ISR01,12,Israel,Judo,X
+JUDXTEAM6---ITA01,13,Italy,Judo,X
+JUDXTEAM6---JPN01,14,Japan,Judo,X
+JUDXTEAM6---KAZ01,8,Kazakhstan,Judo,X
+JUDXTEAM6---KOR01,11,Korea,Judo,X
+JUDXTEAM6---MGL01,10,Mongolia,Judo,X
+JUDXTEAM6---NED01,10,Netherlands,Judo,X
+JUDXTEAM6---SRB01,6,Serbia,Judo,X
+JUDXTEAM6---TUR01,8,Türkiye,Judo,X
+JUDXTEAM6---UZB01,12,Uzbekistan,Judo,X
+ROWMCOXED8--AUS01,9,Australia,Rowing,M
+ROWMCOXED8--GBR01,9,Great Britain,Rowing,M
+ROWMCOXED8--GER01,9,Germany,Rowing,M
+ROWMCOXED8--ITA01,9,Italy,Rowing,M
+ROWMCOXED8--NED01,9,Netherlands,Rowing,M
+ROWMCOXED8--ROU01,9,Romania,Rowing,M
+ROWMCOXED8--USA01,9,United States,Rowing,M
+ROWMNOCOX2--AUS01,2,Australia,Rowing,M
+ROWMNOCOX2--CRO01,2,Croatia,Rowing,M
+ROWMNOCOX2--ESP01,2,Spain,Rowing,M
+ROWMNOCOX2--GBR01,2,Great Britain,Rowing,M
+ROWMNOCOX2--GER01,2,Germany,Rowing,M
+ROWMNOCOX2--IRL01,2,Ireland,Rowing,M
+ROWMNOCOX2--ITA01,2,Italy,Rowing,M
+ROWMNOCOX2--LTU01,2,Lithuania,Rowing,M
+ROWMNOCOX2--NZL01,2,New Zealand,Rowing,M
+ROWMNOCOX2--ROU01,2,Romania,Rowing,M
+ROWMNOCOX2--RSA01,2,South Africa,Rowing,M
+ROWMNOCOX2--SUI01,2,Switzerland,Rowing,M
+ROWMNOCOX2--USA01,2,United States,Rowing,M
+ROWMNOCOX4--AUS01,4,Australia,Rowing,M
+ROWMNOCOX4--FRA01,4,France,Rowing,M
+ROWMNOCOX4--GBR01,4,Great Britain,Rowing,M
+ROWMNOCOX4--ITA01,4,Italy,Rowing,M
+ROWMNOCOX4--NED01,4,Netherlands,Rowing,M
+ROWMNOCOX4--NZL01,4,New Zealand,Rowing,M
+ROWMNOCOX4--ROU01,4,Romania,Rowing,M
+ROWMNOCOX4--SUI01,4,Switzerland,Rowing,M
+ROWMNOCOX4--USA01,4,United States,Rowing,M
+ROWMSCULL2--CHN01,2,China,Rowing,M
+ROWMSCULL2--CRO01,2,Croatia,Rowing,M
+ROWMSCULL2--ESP01,2,Spain,Rowing,M
+ROWMSCULL2--FRA01,2,France,Rowing,M
+ROWMSCULL2--GER01,2,Germany,Rowing,M
+ROWMSCULL2--IRL01,2,Ireland,Rowing,M
+ROWMSCULL2--ITA01,2,Italy,Rowing,M
+ROWMSCULL2-LARG01,2,Argentina,Rowing,M
+ROWMSCULL2-LBEL01,2,Belgium,Rowing,M
+ROWMSCULL2-LCHI01,2,Chile,Rowing,M
+ROWMSCULL2-LCZE01,2,Czechia,Rowing,M
+ROWMSCULL2-LEGY01,2,Egypt,Rowing,M
+ROWMSCULL2-LESP01,2,Spain,Rowing,M
+ROWMSCULL2-LFRA01,2,France,Rowing,M
+ROWMSCULL2-LGRE01,2,Greece,Rowing,M
+ROWMSCULL2-LIRL01,2,Ireland,Rowing,M
+ROWMSCULL2-LITA01,2,Italy,Rowing,M
+ROWMSCULL2-LJPN01,2,Japan,Rowing,M
+ROWMSCULL2-LMEX01,2,Mexico,Rowing,M
+ROWMSCULL2-LNOR01,2,Norway,Rowing,M
+ROWMSCULL2-LSUI01,2,Switzerland,Rowing,M
+ROWMSCULL2-LUKR01,2,Ukraine,Rowing,M
+ROWMSCULL2-LUZB01,2,Uzbekistan,Rowing,M
+ROWMSCULL2--NED01,2,Netherlands,Rowing,M
+ROWMSCULL2--NOR01,2,Norway,Rowing,M
+ROWMSCULL2--NZL01,2,New Zealand,Rowing,M
+ROWMSCULL2--ROU01,2,Romania,Rowing,M
+ROWMSCULL2--SRB01,2,Serbia,Rowing,M
+ROWMSCULL2--USA01,2,United States,Rowing,M
+ROWMSCULL4--EST01,4,Estonia,Rowing,M
+ROWMSCULL4--GBR01,4,Great Britain,Rowing,M
+ROWMSCULL4--GER01,4,Germany,Rowing,M
+ROWMSCULL4--ITA01,4,Italy,Rowing,M
+ROWMSCULL4--NED01,4,Netherlands,Rowing,M
+ROWMSCULL4--NOR01,4,Norway,Rowing,M
+ROWMSCULL4--POL01,4,Poland,Rowing,M
+ROWMSCULL4--ROU01,4,Romania,Rowing,M
+ROWMSCULL4--SUI01,4,Switzerland,Rowing,M
+ROWWCOXED8--AUS01,9,Australia,Rowing,W
+ROWWCOXED8--CAN01,9,Canada,Rowing,W
+ROWWCOXED8--DEN01,9,Denmark,Rowing,W
+ROWWCOXED8--GBR01,9,Great Britain,Rowing,W
+ROWWCOXED8--ITA01,9,Italy,Rowing,W
+ROWWCOXED8--ROU01,9,Romania,Rowing,W
+ROWWCOXED8--USA01,9,United States,Rowing,W
+ROWWNOCOX2--AUS01,2,Australia,Rowing,W
+ROWWNOCOX2--CHI01,2,Chile,Rowing,W
+ROWWNOCOX2--CZE01,2,Czechia,Rowing,W
+ROWWNOCOX2--DEN01,2,Denmark,Rowing,W
+ROWWNOCOX2--ESP01,2,Spain,Rowing,W
+ROWWNOCOX2--GBR01,2,Great Britain,Rowing,W
+ROWWNOCOX2--GRE01,2,Greece,Rowing,W
+ROWWNOCOX2--IRL01,2,Ireland,Rowing,W
+ROWWNOCOX2--LTU01,2,Lithuania,Rowing,W
+ROWWNOCOX2--NED01,2,Netherlands,Rowing,W
+ROWWNOCOX2--NZL01,2,New Zealand,Rowing,W
+ROWWNOCOX2--ROU01,2,Romania,Rowing,W
+ROWWNOCOX2--USA01,2,United States,Rowing,W
+ROWWNOCOX4--AUS01,4,Australia,Rowing,W
+ROWWNOCOX4--CHN01,4,China,Rowing,W
+ROWWNOCOX4--DEN01,4,Denmark,Rowing,W
+ROWWNOCOX4--GBR01,4,Great Britain,Rowing,W
+ROWWNOCOX4--IRL01,4,Ireland,Rowing,W
+ROWWNOCOX4--NED01,4,Netherlands,Rowing,W
+ROWWNOCOX4--NZL01,4,New Zealand,Rowing,W
+ROWWNOCOX4--ROU01,4,Romania,Rowing,W
+ROWWNOCOX4--USA01,4,United States,Rowing,W
+ROWWSCULL2--AUS01,2,Australia,Rowing,W
+ROWWSCULL2--CHN01,2,China,Rowing,W
+ROWWSCULL2--CZE01,2,Czechia,Rowing,W
+ROWWSCULL2--FRA01,2,France,Rowing,W
+ROWWSCULL2--GBR01,2,Great Britain,Rowing,W
+ROWWSCULL2--IRL01,2,Ireland,Rowing,W
+ROWWSCULL2--ITA01,2,Italy,Rowing,W
+ROWWSCULL2-LARG01,2,Argentina,Rowing,W
+ROWWSCULL2-LAUT01,2,Austria,Rowing,W
+ROWWSCULL2-LCAN01,2,Canada,Rowing,W
+ROWWSCULL2-LCHN01,2,China,Rowing,W
+ROWWSCULL2-LFRA01,2,France,Rowing,W
+ROWWSCULL2-LGBR01,2,Great Britain,Rowing,W
+ROWWSCULL2-LGRE01,2,Greece,Rowing,W
+ROWWSCULL2-LIRI01,2,IR Iran,Rowing,W
+ROWWSCULL2-LIRL01,2,Ireland,Rowing,W
+ROWWSCULL2-LJPN01,2,Japan,Rowing,W
+ROWWSCULL2-LNZL01,2,New Zealand,Rowing,W
+ROWWSCULL2-LPER01,2,Peru,Rowing,W
+ROWWSCULL2-LPOL01,2,Poland,Rowing,W
+ROWWSCULL2-LROU01,2,Romania,Rowing,W
+ROWWSCULL2--LTU01,2,Lithuania,Rowing,W
+ROWWSCULL2-LTUN01,2,Tunisia,Rowing,W
+ROWWSCULL2-LUSA01,2,United States,Rowing,W
+ROWWSCULL2--NED01,2,Netherlands,Rowing,W
+ROWWSCULL2--NOR01,2,Norway,Rowing,W
+ROWWSCULL2--NZL01,2,New Zealand,Rowing,W
+ROWWSCULL2--ROU01,2,Romania,Rowing,W
+ROWWSCULL2--USA01,2,United States,Rowing,W
+ROWWSCULL4--AUS01,4,Australia,Rowing,W
+ROWWSCULL4--CHN01,4,China,Rowing,W
+ROWWSCULL4--GBR01,4,Great Britain,Rowing,W
+ROWWSCULL4--GER01,4,Germany,Rowing,W
+ROWWSCULL4--NED01,4,Netherlands,Rowing,W
+ROWWSCULL4--ROU01,4,Romania,Rowing,W
+ROWWSCULL4--SUI01,4,Switzerland,Rowing,W
+ROWWSCULL4--UKR01,4,Ukraine,Rowing,W
+ROWWSCULL4--USA01,4,United States,Rowing,W
+RU7MTEAM7---ARG01,14,Argentina,Rugby Sevens,M
+RU7MTEAM7---AUS01,12,Australia,Rugby Sevens,M
+RU7MTEAM7---FIJ01,14,Fiji,Rugby Sevens,M
+RU7MTEAM7---FRA01,13,France,Rugby Sevens,M
+RU7MTEAM7---IRL01,14,Ireland,Rugby Sevens,M
+RU7MTEAM7---JPN01,13,Japan,Rugby Sevens,M
+RU7MTEAM7---KEN01,13,Kenya,Rugby Sevens,M
+RU7MTEAM7---NZL01,13,New Zealand,Rugby Sevens,M
+RU7MTEAM7---RSA01,13,South Africa,Rugby Sevens,M
+RU7MTEAM7---SAM01,12,Samoa,Rugby Sevens,M
+RU7MTEAM7---URU01,14,Uruguay,Rugby Sevens,M
+RU7MTEAM7---USA01,14,United States,Rugby Sevens,M
+RU7WTEAM7---AUS01,13,Australia,Rugby Sevens,W
+RU7WTEAM7---BRA01,14,Brazil,Rugby Sevens,W
+RU7WTEAM7---CAN01,14,Canada,Rugby Sevens,W
+RU7WTEAM7---CHN01,14,China,Rugby Sevens,W
+RU7WTEAM7---FIJ01,13,Fiji,Rugby Sevens,W
+RU7WTEAM7---FRA01,12,France,Rugby Sevens,W
+RU7WTEAM7---GBR01,14,Great Britain,Rugby Sevens,W
+RU7WTEAM7---IRL01,14,Ireland,Rugby Sevens,W
+RU7WTEAM7---JPN01,13,Japan,Rugby Sevens,W
+RU7WTEAM7---NZL01,12,New Zealand,Rugby Sevens,W
+RU7WTEAM7---RSA01,13,South Africa,Rugby Sevens,W
+RU7WTEAM7---USA01,12,United States,Rugby Sevens,W
+SALM49ER----AUS01,2,Australia,Sailing,M
+SALM49ER----AUT01,2,Austria,Sailing,M
+SALM49ER----BEL01,2,Belgium,Sailing,M
+SALM49ER----BRA01,2,Brazil,Sailing,M
+SALM49ER----CAN01,2,Canada,Sailing,M
+SALM49ER----CHN01,2,China,Sailing,M
+SALM49ER----CRO01,2,Croatia,Sailing,M
+SALM49ER----DEN01,2,Denmark,Sailing,M
+SALM49ER----ESP01,2,Spain,Sailing,M
+SALM49ER----FRA01,2,France,Sailing,M
+SALM49ER----GBR01,2,Great Britain,Sailing,M
+SALM49ER----GER01,2,Germany,Sailing,M
+SALM49ER----HKG01,2,"Hong Kong, China",Sailing,M
+SALM49ER----IRL01,2,Ireland,Sailing,M
+SALM49ER----NED01,2,Netherlands,Sailing,M
+SALM49ER----NZL01,2,New Zealand,Sailing,M
+SALM49ER----POL01,2,Poland,Sailing,M
+SALM49ER----SUI01,2,Switzerland,Sailing,M
+SALM49ER----URU01,2,Uruguay,Sailing,M
+SALM49ER----USA01,2,United States,Sailing,M
+SALW49ERFX--AUS01,2,Australia,Sailing,W
+SALW49ERFX--BEL01,2,Belgium,Sailing,W
+SALW49ERFX--BRA01,2,Brazil,Sailing,W
+SALW49ERFX--CAN01,2,Canada,Sailing,W
+SALW49ERFX--CHN01,2,China,Sailing,W
+SALW49ERFX--CZE01,2,Czechia,Sailing,W
+SALW49ERFX--DEN01,2,Denmark,Sailing,W
+SALW49ERFX--ESP01,2,Spain,Sailing,W
+SALW49ERFX--FIN01,2,Finland,Sailing,W
+SALW49ERFX--FRA01,2,France,Sailing,W
+SALW49ERFX--GBR01,2,Great Britain,Sailing,W
+SALW49ERFX--GER01,2,Germany,Sailing,W
+SALW49ERFX--ITA01,2,Italy,Sailing,W
+SALW49ERFX--JPN01,2,Japan,Sailing,W
+SALW49ERFX--NED01,2,Netherlands,Sailing,W
+SALW49ERFX--NOR01,2,Norway,Sailing,W
+SALW49ERFX--NZL01,2,New Zealand,Sailing,W
+SALW49ERFX--POL01,2,Poland,Sailing,W
+SALW49ERFX--SWE01,2,Sweden,Sailing,W
+SALW49ERFX--USA01,2,United States,Sailing,W
+SALX470-----ANG01,2,Angola,Sailing,X
+SALX470-----AUS01,2,Australia,Sailing,X
+SALX470-----AUT01,2,Austria,Sailing,X
+SALX470-----BRA01,2,Brazil,Sailing,X
+SALX470-----CHN01,2,China,Sailing,X
+SALX470-----ESP01,2,Spain,Sailing,X
+SALX470-----FRA01,2,France,Sailing,X
+SALX470-----GBR01,2,Great Britain,Sailing,X
+SALX470-----GER01,2,Germany,Sailing,X
+SALX470-----GRE01,2,Greece,Sailing,X
+SALX470-----ISR01,2,Israel,Sailing,X
+SALX470-----ITA01,2,Italy,Sailing,X
+SALX470-----JPN01,2,Japan,Sailing,X
+SALX470-----POR01,2,Portugal,Sailing,X
+SALX470-----SLO01,2,Slovenia,Sailing,X
+SALX470-----SUI01,2,Switzerland,Sailing,X
+SALX470-----SWE01,2,Sweden,Sailing,X
+SALX470-----TUR01,2,Türkiye,Sailing,X
+SALX470-----USA01,2,United States,Sailing,X
+SALXNACRA17-ARG01,2,Argentina,Sailing,X
+SALXNACRA17-AUS01,2,Australia,Sailing,X
+SALXNACRA17-AUT01,2,Austria,Sailing,X
+SALXNACRA17-BEL01,2,Belgium,Sailing,X
+SALXNACRA17-BRA01,2,Brazil,Sailing,X
+SALXNACRA17-CHN01,2,China,Sailing,X
+SALXNACRA17-DEN01,2,Denmark,Sailing,X
+SALXNACRA17-ESP01,2,Spain,Sailing,X
+SALXNACRA17-FIN01,2,Finland,Sailing,X
+SALXNACRA17-FRA01,2,France,Sailing,X
+SALXNACRA17-GBR01,2,Great Britain,Sailing,X
+SALXNACRA17-GER01,2,Germany,Sailing,X
+SALXNACRA17-ITA01,2,Italy,Sailing,X
+SALXNACRA17-JPN01,2,Japan,Sailing,X
+SALXNACRA17-NED01,2,Netherlands,Sailing,X
+SALXNACRA17-NZL01,2,New Zealand,Sailing,X
+SALXNACRA17-SWE01,2,Sweden,Sailing,X
+SALXNACRA17-TUR01,2,Türkiye,Sailing,X
+SALXNACRA17-USA01,2,United States,Sailing,X
+SHOXAPMT----BUL01,2,Bulgaria,Shooting,X
+SHOXAPMT----CHN01,2,China,Shooting,X
+SHOXAPMT----CHN02,2,China,Shooting,X
+SHOXAPMT----FRA01,2,France,Shooting,X
+SHOXAPMT----GER01,2,Germany,Shooting,X
+SHOXAPMT----GER02,2,Germany,Shooting,X
+SHOXAPMT----IND01,2,India,Shooting,X
+SHOXAPMT----IND02,2,India,Shooting,X
+SHOXAPMT----KAZ01,2,Kazakhstan,Shooting,X
+SHOXAPMT----KOR01,2,Korea,Shooting,X
+SHOXAPMT----KOR02,2,Korea,Shooting,X
+SHOXAPMT----LAT01,2,Latvia,Shooting,X
+SHOXAPMT----PAK01,2,Pakistan,Shooting,X
+SHOXAPMT----SRB01,2,Serbia,Shooting,X
+SHOXAPMT----TUR01,2,Türkiye,Shooting,X
+SHOXAPMT----TUR02,2,Türkiye,Shooting,X
+SHOXAPMT----UKR01,2,Ukraine,Shooting,X
+SHOXARMT----ALG01,,Algeria,Shooting,X
+SHOXARMT----ARG01,2,Argentina,Shooting,X
+SHOXARMT----AUT01,2,Austria,Shooting,X
+SHOXARMT----CHN01,2,China,Shooting,X
+SHOXARMT----CHN02,2,China,Shooting,X
+SHOXARMT----CZE01,2,Czechia,Shooting,X
+SHOXARMT----EGY01,2,Egypt,Shooting,X
+SHOXARMT----EGY02,2,Egypt,Shooting,X
+SHOXARMT----FRA01,2,France,Shooting,X
+SHOXARMT----FRA02,2,France,Shooting,X
+SHOXARMT----GBR01,2,Great Britain,Shooting,X
+SHOXARMT----GER01,2,Germany,Shooting,X
+SHOXARMT----HUN01,2,Hungary,Shooting,X
+SHOXARMT----IND01,2,India,Shooting,X
+SHOXARMT----IND02,2,India,Shooting,X
+SHOXARMT----ITA01,2,Italy,Shooting,X
+SHOXARMT----JPN01,2,Japan,Shooting,X
+SHOXARMT----KAZ01,2,Kazakhstan,Shooting,X
+SHOXARMT----KAZ02,2,Kazakhstan,Shooting,X
+SHOXARMT----KOR01,2,Korea,Shooting,X
+SHOXARMT----KOR02,2,Korea,Shooting,X
+SHOXARMT----MEX01,2,Mexico,Shooting,X
+SHOXARMT----MGL01,2,Mongolia,Shooting,X
+SHOXARMT----NOR01,2,Norway,Shooting,X
+SHOXARMT----NOR02,2,Norway,Shooting,X
+SHOXARMT----POL01,2,Poland,Shooting,X
+SHOXARMT----POL02,2,Poland,Shooting,X
+SHOXARMT----USA01,2,United States,Shooting,X
+SHOXARMT----USA02,2,United States,Shooting,X
+SHOXSKMT----AUS01,2,Australia,Shooting,X
+SHOXSKMT----CHN01,2,China,Shooting,X
+SHOXSKMT----CZE01,2,Czechia,Shooting,X
+SHOXSKMT----EGY01,,Egypt,Shooting,X
+SHOXSKMT----FRA01,2,France,Shooting,X
+SHOXSKMT----GER01,2,Germany,Shooting,X
+SHOXSKMT----GRE01,2,Greece,Shooting,X
+SHOXSKMT----IND01,2,India,Shooting,X
+SHOXSKMT----ITA01,2,Italy,Shooting,X
+SHOXSKMT----ITA02,2,Italy,Shooting,X
+SHOXSKMT----KAZ01,2,Kazakhstan,Shooting,X
+SHOXSKMT----KOR01,2,Korea,Shooting,X
+SHOXSKMT----PER01,2,Peru,Shooting,X
+SHOXSKMT----SWE01,2,Sweden,Shooting,X
+SHOXSKMT----USA01,2,United States,Shooting,X
+SHOXSKMT----USA02,2,United States,Shooting,X
+SWAWTEAM2---AUS01,2,Australia,Artistic Swimming,W
+SWAWTEAM2---AUT01,2,Austria,Artistic Swimming,W
+SWAWTEAM2---CAN01,2,Canada,Artistic Swimming,W
+SWAWTEAM2---CHN01,2,China,Artistic Swimming,W
+SWAWTEAM2---EGY01,2,Egypt,Artistic Swimming,W
+SWAWTEAM2---ESP01,2,Spain,Artistic Swimming,W
+SWAWTEAM2---FRA01,2,France,Artistic Swimming,W
+SWAWTEAM2---GBR01,2,Great Britain,Artistic Swimming,W
+SWAWTEAM2---GRE01,2,Greece,Artistic Swimming,W
+SWAWTEAM2---ISR01,2,Israel,Artistic Swimming,W
+SWAWTEAM2---ITA01,2,Italy,Artistic Swimming,W
+SWAWTEAM2---JPN01,2,Japan,Artistic Swimming,W
+SWAWTEAM2---KOR01,2,Korea,Artistic Swimming,W
+SWAWTEAM2---MEX01,2,Mexico,Artistic Swimming,W
+SWAWTEAM2---NED01,2,Netherlands,Artistic Swimming,W
+SWAWTEAM2---NZL01,2,New Zealand,Artistic Swimming,W
+SWAWTEAM2---UKR01,2,Ukraine,Artistic Swimming,W
+SWAWTEAM2---USA01,2,United States,Artistic Swimming,W
+SWAWTEAM8---AUS01,9,Australia,Artistic Swimming,O
+SWAWTEAM8---CAN01,9,Canada,Artistic Swimming,O
+SWAWTEAM8---CHN01,9,China,Artistic Swimming,O
+SWAWTEAM8---EGY01,9,Egypt,Artistic Swimming,O
+SWAWTEAM8---ESP01,9,Spain,Artistic Swimming,O
+SWAWTEAM8---FRA01,9,France,Artistic Swimming,O
+SWAWTEAM8---ITA01,9,Italy,Artistic Swimming,O
+SWAWTEAM8---JPN01,9,Japan,Artistic Swimming,O
+SWAWTEAM8---MEX01,9,Mexico,Artistic Swimming,O
+SWAWTEAM8---USA01,9,United States,Artistic Swimming,O
+SWMM4X100MFRAUS01,5,Australia,Swimming,M
+SWMM4X100MFRBRA01,4,Brazil,Swimming,M
+SWMM4X100MFRCAN01,4,Canada,Swimming,M
+SWMM4X100MFRCHN01,4,China,Swimming,M
+SWMM4X100MFRESP01,4,Spain,Swimming,M
+SWMM4X100MFRFRA01,4,France,Swimming,M
+SWMM4X100MFRGBR01,5,Great Britain,Swimming,M
+SWMM4X100MFRGER01,4,Germany,Swimming,M
+SWMM4X100MFRGRE01,4,Greece,Swimming,M
+SWMM4X100MFRHUN01,4,Hungary,Swimming,M
+SWMM4X100MFRISR01,4,Israel,Swimming,M
+SWMM4X100MFRITA01,6,Italy,Swimming,M
+SWMM4X100MFRPOL01,4,Poland,Swimming,M
+SWMM4X100MFRSRB01,4,Serbia,Swimming,M
+SWMM4X100MFRSWE01,4,Sweden,Swimming,M
+SWMM4X100MFRUSA01,6,United States,Swimming,M
+SWMM4X100MMDAUS01,5,Australia,Swimming,M
+SWMM4X100MMDAUT01,4,Austria,Swimming,M
+SWMM4X100MMDCAN01,5,Canada,Swimming,M
+SWMM4X100MMDCHN01,5,China,Swimming,M
+SWMM4X100MMDESP01,4,Spain,Swimming,M
+SWMM4X100MMDFRA01,6,France,Swimming,M
+SWMM4X100MMDGBR01,5,Great Britain,Swimming,M
+SWMM4X100MMDGER01,5,Germany,Swimming,M
+SWMM4X100MMDIRL01,4,Ireland,Swimming,M
+SWMM4X100MMDITA01,4,Italy,Swimming,M
+SWMM4X100MMDJPN01,4,Japan,Swimming,M
+SWMM4X100MMDKOR01,4,Korea,Swimming,M
+SWMM4X100MMDNED01,4,Netherlands,Swimming,M
+SWMM4X100MMDPOL01,4,Poland,Swimming,M
+SWMM4X100MMDSUI01,4,Switzerland,Swimming,M
+SWMM4X100MMDUSA01,7,United States,Swimming,M
+SWMM4X200MFRAUS01,6,Australia,Swimming,M
+SWMM4X200MFRBRA01,4,Brazil,Swimming,M
+SWMM4X200MFRCAN01,4,Canada,Swimming,M
+SWMM4X200MFRCHN01,5,China,Swimming,M
+SWMM4X200MFRESP01,4,Spain,Swimming,M
+SWMM4X200MFRFRA01,4,France,Swimming,M
+SWMM4X200MFRGBR01,6,Great Britain,Swimming,M
+SWMM4X200MFRGER01,4,Germany,Swimming,M
+SWMM4X200MFRGRE01,4,Greece,Swimming,M
+SWMM4X200MFRISR01,5,Israel,Swimming,M
+SWMM4X200MFRITA01,4,Italy,Swimming,M
+SWMM4X200MFRJPN01,4,Japan,Swimming,M
+SWMM4X200MFRKOR01,6,Korea,Swimming,M
+SWMM4X200MFRLTU01,4,Lithuania,Swimming,M
+SWMM4X200MFRSUI01,4,Switzerland,Swimming,M
+SWMM4X200MFRUSA01,7,United States,Swimming,M
+SWMW4X100MFRAUS01,6,Australia,Swimming,W
+SWMW4X100MFRBRA01,4,Brazil,Swimming,W
+SWMW4X100MFRCAN01,6,Canada,Swimming,W
+SWMW4X100MFRCHN01,5,China,Swimming,W
+SWMW4X100MFRDEN01,4,Denmark,Swimming,W
+SWMW4X100MFRFRA01,5,France,Swimming,W
+SWMW4X100MFRGBR01,4,Great Britain,Swimming,W
+SWMW4X100MFRHKG01,4,"Hong Kong, China",Swimming,W
+SWMW4X100MFRHUN01,4,Hungary,Swimming,W
+SWMW4X100MFRIRL01,4,Ireland,Swimming,W
+SWMW4X100MFRITA01,4,Italy,Swimming,W
+SWMW4X100MFRNED01,4,Netherlands,Swimming,W
+SWMW4X100MFRPOL01,4,Poland,Swimming,W
+SWMW4X100MFRSLO01,4,Slovenia,Swimming,W
+SWMW4X100MFRSWE01,5,Sweden,Swimming,W
+SWMW4X100MFRUSA01,6,United States,Swimming,W
+SWMW4X100MMDAUS01,8,Australia,Swimming,W
+SWMW4X100MMDCAN01,7,Canada,Swimming,W
+SWMW4X100MMDCHN01,7,China,Swimming,W
+SWMW4X100MMDDEN01,4,Denmark,Swimming,W
+SWMW4X100MMDFRA01,5,France,Swimming,W
+SWMW4X100MMDGBR01,4,Great Britain,Swimming,W
+SWMW4X100MMDGER01,4,Germany,Swimming,W
+SWMW4X100MMDHKG01,4,"Hong Kong, China",Swimming,W
+SWMW4X100MMDIRL01,4,Ireland,Swimming,W
+SWMW4X100MMDITA01,4,Italy,Swimming,W
+SWMW4X100MMDJPN01,4,Japan,Swimming,W
+SWMW4X100MMDNED01,4,Netherlands,Swimming,W
+SWMW4X100MMDPOL01,4,Poland,Swimming,W
+SWMW4X100MMDSGP01,4,Singapore,Swimming,W
+SWMW4X100MMDSWE01,4,Sweden,Swimming,W
+SWMW4X100MMDUSA01,8,United States,Swimming,W
+SWMW4X200MFRAUS01,6,Australia,Swimming,W
+SWMW4X200MFRBRA01,4,Brazil,Swimming,W
+SWMW4X200MFRCAN01,5,Canada,Swimming,W
+SWMW4X200MFRCHN01,6,China,Swimming,W
+SWMW4X200MFRESP01,4,Spain,Swimming,W
+SWMW4X200MFRFRA01,4,France,Swimming,W
+SWMW4X200MFRGBR01,5,Great Britain,Swimming,W
+SWMW4X200MFRGER01,4,Germany,Swimming,W
+SWMW4X200MFRHUN01,4,Hungary,Swimming,W
+SWMW4X200MFRISR01,4,Israel,Swimming,W
+SWMW4X200MFRITA01,4,Italy,Swimming,W
+SWMW4X200MFRJPN01,4,Japan,Swimming,W
+SWMW4X200MFRNED01,4,Netherlands,Swimming,W
+SWMW4X200MFRNZL01,4,New Zealand,Swimming,W
+SWMW4X200MFRTUR01,4,Türkiye,Swimming,W
+SWMW4X200MFRUSA01,7,United States,Swimming,W
+SWMX4X100MMDAUS01,8,Australia,Swimming,X
+SWMX4X100MMDBRA01,4,Brazil,Swimming,X
+SWMX4X100MMDCAN01,7,Canada,Swimming,X
+SWMX4X100MMDCHN01,6,China,Swimming,X
+SWMX4X100MMDFRA01,6,France,Swimming,X
+SWMX4X100MMDGBR01,5,Great Britain,Swimming,X
+SWMX4X100MMDGER01,4,Germany,Swimming,X
+SWMX4X100MMDGRE01,4,Greece,Swimming,X
+SWMX4X100MMDISR01,4,Israel,Swimming,X
+SWMX4X100MMDITA01,4,Italy,Swimming,X
+SWMX4X100MMDJPN01,4,Japan,Swimming,X
+SWMX4X100MMDKOR01,4,Korea,Swimming,X
+SWMX4X100MMDNED01,6,Netherlands,Swimming,X
+SWMX4X100MMDPOL01,4,Poland,Swimming,X
+SWMX4X100MMDSWE01,4,Sweden,Swimming,X
+SWMX4X100MMDUSA01,8,United States,Swimming,X
+T000180168080,4,United States,Swimming,M
+T002027129113,2,France,Rowing,M
+T005088118027,4,China,Rowing,W
+T005092223144,4,Australia,Swimming,W
+T005105061005,4,Netherlands,Swimming,W
+T005106100046,4,China,Swimming,W
+T006235228185,4,Australia,Swimming,X
+T007165029113,4,United States,Swimming,M
+T009051173051,4,United States,Swimming,W
+T009172220247,4,Australia,Swimming,M
+T010112120160,4,United States,Swimming,W
+T010239039210,4,Australia,Swimming,W
+T011230232205,4,Australia,Swimming,W
+T012092132149,4,China,Swimming,W
+T012123222150,4,United States,Swimming,M
+T013046016056,4,United States,Swimming,M
+T015155079200,4,South Africa,Swimming,M
+T015237038062,4,China,Swimming,X
+T017210105197,4,Poland,Swimming,M
+T018050143120,4,Korea,Swimming,M
+T018078205011,4,United States,Swimming,X
+T021139183156,4,China,Swimming,X
+T021182047086,4,Italy,Swimming,W
+T021189149154,2,Hungary,Canoe Sprint,M
+T026007161153,4,China,Swimming,M
+T027065149125,3,China,Cycling Track,W
+T027137076094,4,Russian Federation,Swimming,X
+T028003209106,4,Israel,Swimming,W
+T029092105234,2,New Zealand,Rowing,W
+T031089020226,4,Austria,Swimming,M
+T031187113126,4,Great Britain,Rowing,M
+T032180102004,4,Hungary,Swimming,W
+T032230089255,4,South Africa,Swimming,W
+T032254243215,4,Australia,Swimming,W
+T033016104132,4,United States,Swimming,M
+T034172017177,4,Australia,Swimming,W
+T036058255160,2,Italy,Shooting,X
+T036184251139,4,Canada,Swimming,W
+T037217050165,4,Great Britain,Swimming,W
+T038182198132,3,Netherlands,Cycling Track,M
+T040023042051,4,Australia,Swimming,W
+T040026171031,4,China,Swimming,M
+T040052215176,4,Netherlands,Swimming,W
+T040141230067,2,Ireland,Rowing,M
+T041030033135,4,Australia,Swimming,M
+T043219044070,2,Korea,Archery,X
+T044178085196,4,Australia,Swimming,W
+T047173034031,4,Korea,Swimming,M
+T048127108097,4,Australia,Swimming,W
+T048252009004,4,Great Britain,Swimming,X
+T049177232236,2,New Zealand,Rowing,M
+T050018234251,4,Italy,Swimming,M
+T050113048223,4,Great Britain,Swimming,X
+T051001088214,4,South Africa,Swimming,M
+T051044143211,4,Australia,Swimming,M
+T051068010116,2,New Zealand,Canoe Sprint,W
+T052000234216,2,China,Shooting,X
+T052132148157,9,Romania,Rowing,W
+T053127170146,4,United States,Swimming,W
+T054085034000,4,Australia,Swimming,W
+T054095068175,4,United States,Swimming,M
+T055237149192,4,China,Swimming,M
+T056152082134,4,Great Britain,Swimming,X
+T056184065059,4,Australia,Swimming,W
+T056243084219,4,United States,Swimming,M
+T057153235207,4,United States,Swimming,W
+T059049008124,2,United States,Swimming,M
+T061066235178,4,Australia,Swimming,W
+T061189189233,4,Germany,Cycling Track,W
+T061199228210,4,United States,Swimming,M
+T062099173126,4,United States,Swimming,M
+T063034253052,2,Romania,Rowing,W
+T069195059111,2,United States,Shooting,X
+T070176182065,4,Australia,Swimming,W
+T070224246047,4,United States,Swimming,M
+T072239007015,4,Australia,Swimming,M
+T073161009048,4,Germany,Cycling Track,W
+T073212219121,4,China,Swimming,W
+T074215096235,4,South Africa,Swimming,X
+T075047206000,4,Italy,Swimming,M
+T075068011152,4,Canada,Swimming,W
+T076077236018,4,China,Swimming,X
+T077028246213,4,Canada,Swimming,W
+T077146100097,4,Australia,Swimming,W
+T079248110012,4,Italy,Swimming,W
+T080064149056,4,Great Britain,Swimming,M
+T080216244244,4,United States,Swimming,W
+T082101210032,4,Australia,Swimming,W
+T083202023196,4,Australia,Swimming,W
+T083223008017,4,German Dem. Republic,Swimming,W
+T083238094200,4,United States,Swimming,M
+T084165231039,4,China,Swimming,M
+T085109095203,4,Australia,Swimming,W
+T085178047216,4,China,Swimming,W
+T086166153118,4,United States,Swimming,W
+T086254156090,4,Spain,Canoe Sprint,M
+T087049051255,4,United States,Swimming,M
+T087095040064,4,Hungary,Swimming,W
+T088121127206,4,Australia,Swimming,W
+T091046074070,4,Great Britain,Swimming,X
+T091074019200,4,Australia,Swimming,X
+T091147023065,4,Netherlands,Rowing,M
+T093018155227,4,Spain,Swimming,M
+T094207118201,4,Australia,Swimming,W
+T094231202250,4,United States,Swimming,W
+T095071193182,4,Hungary,Swimming,M
+T096245183145,4,United States,Swimming,M
+T097024201207,4,United States,Swimming,M
+T097190080234,4,Australia,Swimming,W
+T097198068021,4,United States,Swimming,M
+T099012198163,4,France,Swimming,M
+T101139061230,9,Germany,Rowing,M
+T103009064164,4,Serbia,Swimming,M
+T103220134006,4,Hungary,Canoe Sprint,W
+T103223108185,2,India,Shooting,X
+T104147084217,4,Unified Team,Swimming,M
+T105004201136,2,Germany,Canoe Sprint,M
+T107073074055,4,China,Swimming,W
+T107081146202,4,Great Britain,Swimming,M
+T107144046005,4,Australia,Swimming,W
+T108070151074,4,Italy,Swimming,M
+T108160233061,4,United States,Swimming,M
+T108161120062,4,Australia,Swimming,M
+T109237041237,4,Great Britain,Swimming,X
+T110180116243,4,Great Britain,Swimming,M
+T112130234068,4,Australia,Swimming,W
+T112173189178,4,Great Britain,Swimming,M
+T114143077091,4,Sweden,Swimming,W
+T117044066011,3,Netherlands,Cycling Track,M
+T117235076051,4,China,Swimming,M
+T119034156000,4,United States,Swimming,M
+T120121050150,4,United States,Swimming,W
+T121068205168,4,Italy,Swimming,M
+T123093085163,4,China,Swimming,M
+T124043035021,4,United States,Swimming,M
+T126209096140,4,Great Britain,Swimming,X
+T127073218087,4,Australia,Swimming,W
+T127075108220,4,South Africa,Swimming,W
+T127127130200,4,Australia,Swimming,W
+T128043238071,4,United States,Swimming,M
+T129222111254,4,United States,Swimming,M
+T132114009227,3,Korea,Archery,W
+T133048054128,4,United States,Swimming,M
+T134130092240,4,China,Swimming,W
+T134149068080,4,Netherlands,Swimming,M
+T135067238066,4,China,Rowing,W
+T135144033254,4,China,Swimming,W
+T136207100235,4,Germany,Canoe Sprint,M
+T136232070138,4,China,Swimming,X
+T137153163006,4,Australia,Swimming,W
+T138230063185,4,United States,Swimming,W
+T139082206031,4,China,Swimming,W
+T140007067165,4,Australia,Swimming,W
+T140176027011,4,China,Swimming,W
+T141135060156,4,Germany,Swimming,W
+T143157012191,4,New Zealand,Swimming,W
+T144159001066,4,Australia,Swimming,W
+T144224053168,4,United States,Swimming,M
+T144247061115,4,Canada,Swimming,M
+T145195042022,4,Australia,Swimming,M
+T146196227215,4,United States,Swimming,W
+T146250208081,4,Australia,Swimming,W
+T147031123022,4,Greece,Swimming,M
+T147237182130,,United States,Swimming,M
+T150192020010,4,Russian Federation,Swimming,W
+T150208041031,4,United States,Swimming,W
+T151104038079,4,China,Swimming,X
+T151165203059,4,Australia,Swimming,W
+T151248169221,4,China,Swimming,W
+T152007104101,4,United States,Swimming,M
+T152072158000,4,United States,Swimming,M
+T153072139060,4,China,Swimming,X
+T154252007135,4,United States,Swimming,W
+T155251247033,4,United States,Swimming,W
+T156038232203,4,Brazil,Swimming,W
+T156096141213,4,Australia,Swimming,W
+T157141039174,4,United States,Swimming,X
+T159071241179,2,New Zealand,Rowing,W
+T159085242241,4,Great Britain,Swimming,M
+T159093137068,3,Korea,Archery,W
+T159170064046,4,United States,Swimming,M
+T160155181193,2,Italy,Rowing,W
+T160254050136,4,United States,Swimming,X
+T161191071133,4,China,Swimming,W
+T162219254220,4,Australia,Rowing,M
+T163062069251,4,United States,Swimming,M
+T163072084245,4,Israel,Swimming,X
+T163127098077,4,Poland,Swimming,W
+T164107208177,4,United States,Swimming,M
+T164131189204,2,China,Canoe Sprint,W
+T164201023192,4,Australia,Swimming,W
+T164227030087,4,Poland,Swimming,W
+T165150246048,4,France,Swimming,M
+T165219065158,4,German Dem. Republic,Swimming,W
+T165230053108,4,Australia,Swimming,M
+T165255017046,4,Australia,Swimming,W
+T170011107055,4,Italy,Swimming,M
+T170120112068,2,Australia,Rowing,W
+T170150126026,2,Ireland,Rowing,M
+T172050237073,4,China,Swimming,X
+T173034009013,4,FRG,Swimming,M
+T175179048136,9,United States,Rowing,M
+T176081239160,4,United States,Swimming,M
+T176093139168,4,Australia,Rowing,W
+T176106184236,4,China,Swimming,W
+T176208225219,4,United States,Swimming,M
+T176255250242,4,Great Britain,Swimming,X
+T177095146045,2,New Zealand,Canoe Sprint,W
+T177099104150,4,United States,Swimming,M
+T177131070058,4,Great Britain,Swimming,X
+T177162067254,4,Australia,Swimming,X
+T177215118232,4,China,Swimming,M
+T178131014059,4,Australia,Swimming,W
+T179016191120,4,Australia,Swimming,M
+T179170112181,2,New Zealand,Rowing,M
+T180005075132,4,Australia,Swimming,W
+T180082238036,4,Australia,Swimming,W
+T181050155106,2,China,Canoe Sprint,M
+T182013107120,4,Australia,Swimming,M
+T182159012196,9,Romania,Rowing,W
+T183042211129,4,Netherlands,Swimming,M
+T183209174099,4,United States,Swimming,W
+T184186134220,4,Great Britain,Swimming,X
+T185128006082,4,United States,Swimming,W
+T185180078216,4,United States,Swimming,W
+T186035252019,4,United States,Swimming,X
+T186102254129,4,Italy,Swimming,M
+T186119241049,4,New Zealand,Swimming,W
+T187154083112,4,United States,Swimming,M
+T188255247159,4,United States,Swimming,X
+T189119064069,4,United States,Swimming,M
+T190092002110,4,Denmark,Swimming,W
+T190186209138,4,Great Britain,Swimming,W
+T191201107174,2,Great Britain,Rowing,W
+T193026024173,4,Great Britain,Swimming,M
+T196095020070,4,Lithuania,Swimming,M
+T196196115151,4,China,Swimming,W
+T197028067226,4,Korea,Swimming,M
+T197064043186,4,France,Swimming,M
+T197121211099,4,Great Britain,Swimming,M
+T197192199178,4,Australia,Swimming,W
+T200208094172,4,United States,Swimming,M
+T204026223054,4,United States,Swimming,W
+T204027239107,4,South Africa,Swimming,W
+T204216145015,4,United States,Swimming,X
+T207042251035,4,China,Swimming,W
+T210060000005,4,United States,Swimming,M
+T210070222027,4,South Africa,Swimming,M
+T211255218208,4,China,Swimming,X
+T212055046088,4,Australia,Swimming,W
+T215142183070,2,Russian Federation,Canoe Sprint,M
+T216012230223,4,China,Swimming,W
+T216014106137,4,South Africa,Swimming,M
+T216092071169,4,United States,Swimming,M
+T217136143024,4,Netherlands,Rowing,M
+T217151129191,4,Australia,Swimming,W
+T217177120018,4,United States,Swimming,M
+T218022032195,4,Russian Federation,Swimming,M
+T218038013073,4,Netherlands,Swimming,W
+T218120199207,2,Korea,Archery,X
+T218141014095,2,Canada,Canoe Sprint,W
+T220064210078,4,Canada,Swimming,W
+T221144098126,4,United States,Swimming,M
+T221255160105,4,United States,Swimming,M
+T222244021165,2,China,Shooting,X
+T223096066167,2,United States,Shooting,X
+T224085015032,4,Australia,Swimming,X
+T225095247005,4,United States,Swimming,M
+T226131186151,4,Australia,Swimming,M
+T226159240093,4,China,Swimming,W
+T226192081090,2,India,Shooting,X
+T227166195031,4,United States,Swimming,W
+T227227075171,4,China,Swimming,W
+T228006119010,4,United States,Swimming,M
+T228010157078,4,Australia,Swimming,W
+T228211081171,4,Germany,Swimming,W
+T229196244224,2,India,Shooting,X
+T231142178065,4,United States,Swimming,X
+T231254107028,4,China,Swimming,X
+T232052083063,4,United States,Swimming,W
+T234067164063,4,United States,Swimming,M
+T235250241164,2,Croatia,Rowing,M
+T236149232187,4,United States,Swimming,M
+T237004209070,4,Russian Federation,Swimming,M
+T239108182176,4,Netherlands,Swimming,W
+T239136002118,4,Poland,Canoe Sprint,W
+T240145002027,3,Korea,Archery,M
+T240229054098,4,Australia,Swimming,W
+T241054177157,4,United States,Swimming,M
+T241090199113,3,Korea,Archery,M
+T241211162236,4,Italy,Swimming,M
+T241222252249,4,Great Britain,Swimming,X
+T242000170096,2,China,Shooting,X
+T242075099067,4,Great Britain,Swimming,M
+T242254057065,4,Italy,Cycling Track,M
+T243053252043,4,Italy,Cycling Track,M
+T243153023105,4,United States,Swimming,M
+T243187227111,4,Australia,Swimming,W
+T244008189081,4,Serbia,Swimming,M
+T244157063110,4,United States,Swimming,M
+T245049147179,4,United States,Swimming,M
+T245225170159,4,Italy,Swimming,W
+T245241122029,4,United States,Swimming,M
+T246010078220,4,United States,Swimming,W
+T246128120147,2,Kuwait,Shooting,X
+T246191162159,4,New Zealand,Rowing,W
+T246209147071,2,India,Shooting,X
+T246234046059,4,United States,Swimming,M
+T247150124139,4,United States,Swimming,M
+T249015074213,4,Great Britain,Swimming,X
+T249049140097,4,China,Swimming,X
+T249066122070,4,United States,Swimming,M
+T251084043155,4,United States,Swimming,M
+T251234141132,4,United States,Swimming,M
+T251237025181,4,China,Swimming,W
+T253093211118,4,Russian Federation,Swimming,M
+T254025182131,4,Germany,Swimming,W
+T254078068205,4,United States,Swimming,W
+T255047189153,4,United States,Swimming,M
+T80212896,4,Great Britain,Athletics,M
+T80214279,4,Australia,Athletics,W
+T80214289,4,Nigeria,Athletics,W
+T80214643,4,United States,Athletics,M
+T80229963,4,German Dem. Republic,Athletics,W
+T80296594,4,USSR,Athletics,W
+T80297652,4,China,Athletics,W
+T80297690,4,China,Athletics,W
+T80381188,4,Brazil,Athletics,M
+T80394592,4,Australia,Athletics,M
+T80394594,4,Australia,Athletics,M
+T80398204,4,United States,Athletics,W
+T80517879,4,United States,Athletics,M
+T80589681,4,United States,Athletics,W
+T81855168,4,Brazil,Athletics,W
+T82808046,4,Australia,Athletics,M
+T82808159,4,United States,Athletics,W
+T82810068,4,Jamaica,Athletics,M
+T83931365,4,Brazil,Athletics,W
+T88414807,4,United States,Athletics,M
+T91040376,4,Bahrain,Athletics,X
+T91047112,4,South Africa,Athletics,M
+T91048122,4,Great Britain,Athletics,M
+T91048123,4,Japan,Athletics,M
+T91048124,4,Brazil,Athletics,M
+T92656676,4,Australia,Athletics,X
+T92835504,4,Poland,Athletics,X
+T92851915,4,Botswana,Athletics,M
+T92886354,4,South Africa,Athletics,M
+T94166163,4,United States,Athletics,X
+T94172565,4,Jamaica,Athletics,W
+T96104270,4,United States,Athletics,X
+T96112474,4,Côte d'Ivoire,Athletics,W
+T96113713,4,India,Athletics,M
+T97087390,4,Colombia,Athletics,X
+T97199356,4,Australia,Athletics,W
+T97446556,4,Kenya,Athletics,X
+TENMDOUBLES-AIN01,2,AIN,Tennis,M
+TENMDOUBLES-ARG01,2,Argentina,Tennis,M
+TENMDOUBLES-ARG02,2,Argentina,Tennis,M
+TENMDOUBLES-AUS01,2,Australia,Tennis,M
+TENMDOUBLES-AUS02,2,Australia,Tennis,M
+TENMDOUBLES-BEL01,2,Belgium,Tennis,M
+TENMDOUBLES-BRA01,2,Brazil,Tennis,M
+TENMDOUBLES-CAN01,2,Canada,Tennis,M
+TENMDOUBLES-CHI01,2,Chile,Tennis,M
+TENMDOUBLES-CRO01,2,Croatia,Tennis,M
+TENMDOUBLES-CZE01,2,Czechia,Tennis,M
+TENMDOUBLES-ESP01,2,Spain,Tennis,M
+TENMDOUBLES-ESP02,2,Spain,Tennis,M
+TENMDOUBLES-FRA01,2,France,Tennis,M
+TENMDOUBLES-FRA02,2,France,Tennis,M
+TENMDOUBLES-GBR01,2,Great Britain,Tennis,M
+TENMDOUBLES-GBR02,2,Great Britain,Tennis,M
+TENMDOUBLES-GER01,2,Germany,Tennis,M
+TENMDOUBLES-GER02,2,Germany,Tennis,M
+TENMDOUBLES-GRE01,2,Greece,Tennis,M
+TENMDOUBLES-HUN01,2,Hungary,Tennis,M
+TENMDOUBLES-IND01,2,India,Tennis,M
+TENMDOUBLES-ITA01,2,Italy,Tennis,M
+TENMDOUBLES-ITA02,2,Italy,Tennis,M
+TENMDOUBLES-JPN01,2,Japan,Tennis,M
+TENMDOUBLES-KAZ01,2,Kazakhstan,Tennis,M
+TENMDOUBLES-LBN01,2,Lebanon,Tennis,M
+TENMDOUBLES-NED01,2,Netherlands,Tennis,M
+TENMDOUBLES-NED02,2,Netherlands,Tennis,M
+TENMDOUBLES-POL01,2,Poland,Tennis,M
+TENMDOUBLES-POR01,2,Portugal,Tennis,M
+TENMDOUBLES-USA01,2,United States,Tennis,M
+TENMDOUBLES-USA02,2,United States,Tennis,M
+TENWDOUBLES-AIN01,2,AIN,Tennis,W
+TENWDOUBLES-AIN02,2,AIN,Tennis,W
+TENWDOUBLES-ARG01,2,Argentina,Tennis,W
+TENWDOUBLES-AUS01,2,Australia,Tennis,W
+TENWDOUBLES-AUS02,2,Australia,Tennis,W
+TENWDOUBLES-BRA01,2,Brazil,Tennis,W
+TENWDOUBLES-CAN01,2,Canada,Tennis,W
+TENWDOUBLES-CHN01,2,China,Tennis,W
+TENWDOUBLES-CHN02,2,China,Tennis,W
+TENWDOUBLES-CZE01,2,Czechia,Tennis,W
+TENWDOUBLES-CZE02,2,Czechia,Tennis,W
+TENWDOUBLES-ESP01,2,Spain,Tennis,W
+TENWDOUBLES-FRA01,2,France,Tennis,W
+TENWDOUBLES-FRA02,2,France,Tennis,W
+TENWDOUBLES-GBR01,2,Great Britain,Tennis,W
+TENWDOUBLES-GER01,2,Germany,Tennis,W
+TENWDOUBLES-GER02,2,Germany,Tennis,W
+TENWDOUBLES-GRE01,2,Greece,Tennis,W
+TENWDOUBLES-ITA01,2,Italy,Tennis,W
+TENWDOUBLES-ITA02,2,Italy,Tennis,W
+TENWDOUBLES-JPN01,2,Japan,Tennis,W
+TENWDOUBLES-NED01,2,Netherlands,Tennis,W
+TENWDOUBLES-NZL01,2,New Zealand,Tennis,W
+TENWDOUBLES-POL01,2,Poland,Tennis,W
+TENWDOUBLES-ROU01,2,Romania,Tennis,W
+TENWDOUBLES-ROU02,2,Romania,Tennis,W
+TENWDOUBLES-TPE01,2,Chinese Taipei,Tennis,W
+TENWDOUBLES-TPE02,2,Chinese Taipei,Tennis,W
+TENWDOUBLES-UKR01,2,Ukraine,Tennis,W
+TENWDOUBLES-UKR02,2,Ukraine,Tennis,W
+TENWDOUBLES-USA01,2,United States,Tennis,W
+TENWDOUBLES-USA02,2,United States,Tennis,W
+TENXDOUBLES-AIN01,2,AIN,Tennis,X
+TENXDOUBLES-ARG01,2,Argentina,Tennis,X
+TENXDOUBLES-AUS01,2,Australia,Tennis,X
+TENXDOUBLES-BRA01,2,Brazil,Tennis,X
+TENXDOUBLES-CAN01,2,Canada,Tennis,X
+TENXDOUBLES-CHN01,2,China,Tennis,X
+TENXDOUBLES-CRO01,2,Croatia,Tennis,X
+TENXDOUBLES-CZE01,2,Czechia,Tennis,X
+TENXDOUBLES-DEN01,2,Denmark,Tennis,X
+TENXDOUBLES-ESP01,2,Spain,Tennis,X
+TENXDOUBLES-FRA01,2,France,Tennis,X
+TENXDOUBLES-GBR01,2,Great Britain,Tennis,X
+TENXDOUBLES-GER01,2,Germany,Tennis,X
+TENXDOUBLES-GRE01,2,Greece,Tennis,X
+TENXDOUBLES-ITA01,2,Italy,Tennis,X
+TENXDOUBLES-JPN01,2,Japan,Tennis,X
+TENXDOUBLES-NED01,2,Netherlands,Tennis,X
+TENXDOUBLES-SUI01,2,Switzerland,Tennis,X
+TENXDOUBLES-USA01,2,United States,Tennis,X
+TRIXTEAM4---AUS01,4,Australia,Triathlon,X
+TRIXTEAM4---AUT01,4,Austria,Triathlon,X
+TRIXTEAM4---BEL01,4,Belgium,Triathlon,X
+TRIXTEAM4---BRA01,4,Brazil,Triathlon,X
+TRIXTEAM4---ESP01,4,Spain,Triathlon,X
+TRIXTEAM4---FRA01,4,France,Triathlon,X
+TRIXTEAM4---GBR01,4,Great Britain,Triathlon,X
+TRIXTEAM4---GER01,4,Germany,Triathlon,X
+TRIXTEAM4---ITA01,4,Italy,Triathlon,X
+TRIXTEAM4---MEX01,4,Mexico,Triathlon,X
+TRIXTEAM4---NED01,4,Netherlands,Triathlon,X
+TRIXTEAM4---NOR01,4,Norway,Triathlon,X
+TRIXTEAM4---NZL01,4,New Zealand,Triathlon,X
+TRIXTEAM4---POR01,4,Portugal,Triathlon,X
+TRIXTEAM4---SUI01,4,Switzerland,Triathlon,X
+TRIXTEAM4---USA01,4,United States,Triathlon,X
+TTEMTEAM----AUS01,3,Australia,Table Tennis,M
+TTEMTEAM----BRA01,3,Brazil,Table Tennis,M
+TTEMTEAM----CAN01,3,Canada,Table Tennis,M
+TTEMTEAM----CHN01,3,China,Table Tennis,M
+TTEMTEAM----CRO01,3,Croatia,Table Tennis,M
+TTEMTEAM----DEN01,3,Denmark,Table Tennis,M
+TTEMTEAM----EGY01,3,Egypt,Table Tennis,M
+TTEMTEAM----FRA01,3,France,Table Tennis,M
+TTEMTEAM----GER01,3,Germany,Table Tennis,M
+TTEMTEAM----IND01,3,India,Table Tennis,M
+TTEMTEAM----JPN01,3,Japan,Table Tennis,M
+TTEMTEAM----KOR01,3,Korea,Table Tennis,M
+TTEMTEAM----POR01,3,Portugal,Table Tennis,M
+TTEMTEAM----SLO01,3,Slovenia,Table Tennis,M
+TTEMTEAM----SWE01,3,Sweden,Table Tennis,M
+TTEMTEAM----TPE01,3,Chinese Taipei,Table Tennis,M
+TTEWTEAM----AUS01,3,Australia,Table Tennis,W
+TTEWTEAM----BRA01,3,Brazil,Table Tennis,W
+TTEWTEAM----CHN01,3,China,Table Tennis,W
+TTEWTEAM----EGY01,3,Egypt,Table Tennis,W
+TTEWTEAM----FRA01,3,France,Table Tennis,W
+TTEWTEAM----GER01,3,Germany,Table Tennis,W
+TTEWTEAM----HKG01,3,"Hong Kong, China",Table Tennis,W
+TTEWTEAM----IND01,3,India,Table Tennis,W
+TTEWTEAM----JPN01,3,Japan,Table Tennis,W
+TTEWTEAM----KOR01,3,Korea,Table Tennis,W
+TTEWTEAM----POL01,3,Poland,Table Tennis,W
+TTEWTEAM----ROU01,3,Romania,Table Tennis,W
+TTEWTEAM----SWE01,3,Sweden,Table Tennis,W
+TTEWTEAM----THA01,3,Thailand,Table Tennis,W
+TTEWTEAM----TPE01,3,Chinese Taipei,Table Tennis,W
+TTEWTEAM----USA01,3,United States,Table Tennis,W
+TTEXDOUBLES-AUS01,2,Australia,Table Tennis,X
+TTEXDOUBLES-BRA01,2,Brazil,Table Tennis,X
+TTEXDOUBLES-CHN01,2,China,Table Tennis,X
+TTEXDOUBLES-CUB01,2,Cuba,Table Tennis,X
+TTEXDOUBLES-EGY01,2,Egypt,Table Tennis,X
+TTEXDOUBLES-ESP01,2,Spain,Table Tennis,X
+TTEXDOUBLES-FRA01,2,France,Table Tennis,X
+TTEXDOUBLES-GER01,2,Germany,Table Tennis,X
+TTEXDOUBLES-HKG01,2,"Hong Kong, China",Table Tennis,X
+TTEXDOUBLES-HUN01,2,Hungary,Table Tennis,X
+TTEXDOUBLES-JPN01,2,Japan,Table Tennis,X
+TTEXDOUBLES-KOR01,2,Korea,Table Tennis,X
+TTEXDOUBLES-PRK01,2,DPR Korea,Table Tennis,X
+TTEXDOUBLES-ROU01,2,Romania,Table Tennis,X
+TTEXDOUBLES-SWE01,2,Sweden,Table Tennis,X
+TTEXDOUBLES-TPE01,2,Chinese Taipei,Table Tennis,X
+VBVMTEAM2---AUS01,2,Australia,Beach Volleyball,M
+VBVMTEAM2---AUS02,2,Australia,Beach Volleyball,M
+VBVMTEAM2---AUT01,2,Austria,Beach Volleyball,M
+VBVMTEAM2---BRA01,2,Brazil,Beach Volleyball,M
+VBVMTEAM2---BRA02,2,Brazil,Beach Volleyball,M
+VBVMTEAM2---CAN01,2,Canada,Beach Volleyball,M
+VBVMTEAM2---CHI01,2,Chile,Beach Volleyball,M
+VBVMTEAM2---CUB01,2,Cuba,Beach Volleyball,M
+VBVMTEAM2---CZE01,2,Czechia,Beach Volleyball,M
+VBVMTEAM2---ESP01,2,Spain,Beach Volleyball,M
+VBVMTEAM2---FRA01,2,France,Beach Volleyball,M
+VBVMTEAM2---FRA02,2,France,Beach Volleyball,M
+VBVMTEAM2---GER01,2,Germany,Beach Volleyball,M
+VBVMTEAM2---ITA01,2,Italy,Beach Volleyball,M
+VBVMTEAM2---ITA02,2,Italy,Beach Volleyball,M
+VBVMTEAM2---MAR01,2,Morocco,Beach Volleyball,M
+VBVMTEAM2---NED01,2,Netherlands,Beach Volleyball,M
+VBVMTEAM2---NED02,2,Netherlands,Beach Volleyball,M
+VBVMTEAM2---NOR01,2,Norway,Beach Volleyball,M
+VBVMTEAM2---POL01,2,Poland,Beach Volleyball,M
+VBVMTEAM2---QAT01,2,Qatar,Beach Volleyball,M
+VBVMTEAM2---SWE01,2,Sweden,Beach Volleyball,M
+VBVMTEAM2---USA01,2,United States,Beach Volleyball,M
+VBVMTEAM2---USA02,2,United States,Beach Volleyball,M
+VBVWTEAM2---AUS01,2,Australia,Beach Volleyball,W
+VBVWTEAM2---BRA01,2,Brazil,Beach Volleyball,W
+VBVWTEAM2---BRA02,2,Brazil,Beach Volleyball,W
+VBVWTEAM2---CAN01,2,Canada,Beach Volleyball,W
+VBVWTEAM2---CAN02,2,Canada,Beach Volleyball,W
+VBVWTEAM2---CHN01,2,China,Beach Volleyball,W
+VBVWTEAM2---CZE01,2,Czechia,Beach Volleyball,W
+VBVWTEAM2---EGY01,2,Egypt,Beach Volleyball,W
+VBVWTEAM2---ESP01,2,Spain,Beach Volleyball,W
+VBVWTEAM2---ESP02,2,Spain,Beach Volleyball,W
+VBVWTEAM2---FRA01,2,France,Beach Volleyball,W
+VBVWTEAM2---FRA02,2,France,Beach Volleyball,W
+VBVWTEAM2---GER01,2,Germany,Beach Volleyball,W
+VBVWTEAM2---GER02,2,Germany,Beach Volleyball,W
+VBVWTEAM2---ITA01,2,Italy,Beach Volleyball,W
+VBVWTEAM2---JPN01,2,Japan,Beach Volleyball,W
+VBVWTEAM2---LAT01,2,Latvia,Beach Volleyball,W
+VBVWTEAM2---LTU01,2,Lithuania,Beach Volleyball,W
+VBVWTEAM2---NED01,2,Netherlands,Beach Volleyball,W
+VBVWTEAM2---PAR01,2,Paraguay,Beach Volleyball,W
+VBVWTEAM2---SUI01,2,Switzerland,Beach Volleyball,W
+VBVWTEAM2---SUI02,2,Switzerland,Beach Volleyball,W
+VBVWTEAM2---USA01,2,United States,Beach Volleyball,W
+VBVWTEAM2---USA02,2,United States,Beach Volleyball,W
+VVOMTEAM6---ARG01,13,Argentina,Volleyball,M
+VVOMTEAM6---BRA01,13,Brazil,Volleyball,M
+VVOMTEAM6---CAN01,13,Canada,Volleyball,M
+VVOMTEAM6---EGY01,13,Egypt,Volleyball,M
+VVOMTEAM6---FRA01,13,France,Volleyball,M
+VVOMTEAM6---GER01,13,Germany,Volleyball,M
+VVOMTEAM6---ITA01,13,Italy,Volleyball,M
+VVOMTEAM6---JPN01,13,Japan,Volleyball,M
+VVOMTEAM6---POL01,13,Poland,Volleyball,M
+VVOMTEAM6---SLO01,13,Slovenia,Volleyball,M
+VVOMTEAM6---SRB01,13,Serbia,Volleyball,M
+VVOMTEAM6---USA01,13,United States,Volleyball,M
+VVOWTEAM6---BRA01,13,Brazil,Volleyball,W
+VVOWTEAM6---CHN01,13,China,Volleyball,W
+VVOWTEAM6---DOM01,12,Dominican Republic,Volleyball,W
+VVOWTEAM6---FRA01,13,France,Volleyball,W
+VVOWTEAM6---ITA01,13,Italy,Volleyball,W
+VVOWTEAM6---JPN01,13,Japan,Volleyball,W
+VVOWTEAM6---KEN01,13,Kenya,Volleyball,W
+VVOWTEAM6---NED01,13,Netherlands,Volleyball,W
+VVOWTEAM6---POL01,13,Poland,Volleyball,W
+VVOWTEAM6---SRB01,13,Serbia,Volleyball,W
+VVOWTEAM6---TUR01,13,Türkiye,Volleyball,W
+VVOWTEAM6---USA01,13,United States,Volleyball,W
+WPOMTEAM7---AUS01,13,Australia,Water Polo,M
+WPOMTEAM7---CRO01,13,Croatia,Water Polo,M
+WPOMTEAM7---ESP01,13,Spain,Water Polo,M
+WPOMTEAM7---FRA01,13,France,Water Polo,M
+WPOMTEAM7---GRE01,13,Greece,Water Polo,M
+WPOMTEAM7---HUN01,13,Hungary,Water Polo,M
+WPOMTEAM7---ITA01,13,Italy,Water Polo,M
+WPOMTEAM7---JPN01,13,Japan,Water Polo,M
+WPOMTEAM7---MNE01,13,Montenegro,Water Polo,M
+WPOMTEAM7---ROU01,13,Romania,Water Polo,M
+WPOMTEAM7---SRB01,13,Serbia,Water Polo,M
+WPOMTEAM7---USA01,13,United States,Water Polo,M
+WPOWTEAM7---AUS01,13,Australia,Water Polo,W
+WPOWTEAM7---CAN01,13,Canada,Water Polo,W
+WPOWTEAM7---CHN01,13,China,Water Polo,W
+WPOWTEAM7---ESP01,13,Spain,Water Polo,W
+WPOWTEAM7---FRA01,13,France,Water Polo,W
+WPOWTEAM7---GRE01,13,Greece,Water Polo,W
+WPOWTEAM7---HUN01,13,Hungary,Water Polo,W
+WPOWTEAM7---ITA01,13,Italy,Water Polo,W
+WPOWTEAM7---NED01,13,Netherlands,Water Polo,W
+WPOWTEAM7---USA01,13,United States,Water Polo,W
